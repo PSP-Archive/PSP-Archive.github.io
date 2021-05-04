@@ -46,13 +46,7 @@ Gameboy Advanceのハードウェア仕様は、以下のドキュメントを�
 
 以下のPC用GBAエミュレータのコードを参考にしています。
  VisualBoyAdvance   by Forgotten & VBA development team
- VisualBoyAdvance-M by VBA-M development team
-
-
-
-
-	
-
+ VisualBoyAdvance-M by VBA-M development team	
 
 ### Download
 
