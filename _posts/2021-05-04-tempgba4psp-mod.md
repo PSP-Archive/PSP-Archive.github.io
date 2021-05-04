@@ -43,8 +43,6 @@ The problem is " Final Fantasy VI - Sound Restoration" (Europe) on PSP. try with
 
 TempGBA4PSP-mod is supposed to have better compatibility / less glitches for some games than gpSP (e.g. Golden Sun). The speed, as far and see back when used gpSP is about the same.
 
-As for the "GU" output, that's supposed to be accelerated video (=faster), whereas SW is software, which should probably be slower, although theoretically more accurate (less glitches). use GU all the time though, and have yet to find a game that has any problem with it.
-
 1.TempGBA is slower, but is more accurate and has better compatibility.
 
 2.128k - .sav file making a some games (Ex. Pokemon Mystery Dungeon - Red Rescue Team) Save supported on TempGBA4PSP/TempGBA4PSP-mod.
