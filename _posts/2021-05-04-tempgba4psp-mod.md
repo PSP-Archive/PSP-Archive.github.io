@@ -9,8 +9,7 @@ image: /assets/img/snaps/TEMP01318_00000.jpg
 
 ## TempGBA4PSP-mod
 
-Emulates Game Boy Advance hardware.
-Game Boy Advance dedicated software can be executed.
+GameBoy Advance emulator, an unknown has just submitted a new version which brings some modifications on the basis of other emulators including gpSP and GPSP kai.
 
 TempGBA4PSP-mod was created by [Phoenix](https://github.com/phoe-nix/), Anonymous Japanese Coder.
 
@@ -24,14 +23,35 @@ Based on this version [TempGBA4PSP-26731020](http://www1.axfc.net/uploader/so/30
 
 - New menu icon.
 
-- Doesn't support full screen version with a 16:9 aspect ratio.
+- Doesn't support full screen with a 16:9 aspect ratio.
 
 - Impoted code from TempGBA-mod-dstwo-26750220.
 
 <h5>GBA BIOS</h5>
 
+You need the actual BIOS files. <b>gba_bios.bin</b>
 
-To run it, you need the actual BIOS image. <b>gba_bios.bin</b>
+<h5>Controls</h5>
+ 
+- Pad Up, Down: Select game or Folder.
+- Pad left / right: View game / folder list. Or : Start the selected game / enter the game in the selected folder.
+- X: Displays the menu.
+- Square : Go to a previous directory.
+- On the menu :
+ 
+- Pad Up, Down : move through the menu.
+- Pad Left, Right : Change the options.
+- The trigger : go to the play list.
+- Trigger A : Go to the rescues.
+- O : OK / Enter to sub-menu.
+- X : Back to the game.
+- At stake :
+ 
+- Triangle Home : Show menu.
+- Square : Start.
+- O : A.
+- X : B.
+- L Trigger, R Trigger, Select, Start : Keeping the same function as the Game Boy Advance.
 
 <h5>Credits</h5>
 
