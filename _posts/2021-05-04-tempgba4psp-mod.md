@@ -27,6 +27,10 @@ Based on this version [TempGBA4PSP-26731020](http://www1.axfc.net/uploader/so/30
 
 - Impoted code from TempGBA-mod-dstwo-26750220.
 
+<video class="center" width="480" height="272" controls>
+	<source type="video/mp4" src="https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/video/2021-05-04-TempGBA4PSP-mod.mp4">
+</video>
+
 <h5>GBA BIOS</h5>
 
 You need the actual BIOS files. <b>gba_bios.bin</b>
