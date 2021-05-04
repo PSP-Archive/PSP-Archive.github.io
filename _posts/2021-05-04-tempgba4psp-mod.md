@@ -24,7 +24,9 @@ Based on this version (TempGBA4PSP-26731020), http://www1.axfc.net/uploader/so/3
 
 - New menu icon.
 
-- Impoted code from TempGBA-mod-dstwo-26750220
+- Doesn't support full screen version with a 16:9 aspect ratio.
+
+- Impoted code from TempGBA-mod-dstwo-26750220.
 
 <h5>GBA BIOS</h5>
 
