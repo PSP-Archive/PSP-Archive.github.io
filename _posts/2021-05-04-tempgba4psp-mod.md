@@ -31,6 +31,10 @@ Based on this version [TempGBA4PSP-26731020](http://www1.axfc.net/uploader/so/30
 
 You need the actual BIOS files. <b>gba_bios.bin</b>
 
+<h5>Compatibility</h5>
+I have tested some games (Advance Wars 2, Golden Sun, Kingdom Hearts, Pokemon Fire Red) and this emulator seems to be the best one available
+Yes I can also confirm that it runs Qwak, a game that didn't work at all in GPSP
+
 <h5>Controls</h5>
  
 - Pad Up, Down: Select game or Folder.
