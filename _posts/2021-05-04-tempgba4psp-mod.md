@@ -52,7 +52,7 @@ Gameboy Advanceのハードウェア仕様は、以下のドキュメントを�
 
 <p class="download-btn">
     <a href="https://archive.org/download/temp-gba-4-psp-mod.-7z/TempGBA4PSP_mod.7z">
-	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/tempgba.png" width="130" height="70">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-04-tempgba4psp-mod.PNG" width="130" height="70">
 	Download the homebrew
 	</a>
 </p>
