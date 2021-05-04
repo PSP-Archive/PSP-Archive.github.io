@@ -39,11 +39,11 @@ You need the actual BIOS files. <b>gba_bios.bin</b>
 Some games Compatibility (Advance Wars 2, Golden Sun, Kingdom Hearts, Pokemon Fire Red,) Working fine.
 it runs Qwak, a game that didn't work at all in gpSP.
 
-The problem is that i actually would like to play " Final Fantasy VI - Sound Restoration" (Europe) on my PSP. I try with this version TempGBA4PSP-mod But the game is laggy, especially when characters talk.
+The problem is " Final Fantasy VI - Sound Restoration" (Europe) on PSP. try with this TempGBA4PSP-mod But the game is laggy, especially when characters talk.
 
-TempGBA4PSP-mod is supposed to have better compatibility / less glitches for some games than gpSP (e.g. Golden Sun). The speed, as far I could see back when I used gpSP is about the same.
+TempGBA4PSP-mod is supposed to have better compatibility / less glitches for some games than gpSP (e.g. Golden Sun). The speed, as far and see back when used gpSP is about the same.
 
-As for the "GU" output, that's supposed to be accelerated video (=faster), whereas SW is software, which should probably be slower, although theoretically more accurate (less glitches). I use GU all the time though, and have yet to find a game that has any problem with it.
+As for the "GU" output, that's supposed to be accelerated video (=faster), whereas SW is software, which should probably be slower, although theoretically more accurate (less glitches). use GU all the time though, and have yet to find a game that has any problem with it.
 
 1.TempGBA is slower, but is more accurate and has better compatibility.
 
