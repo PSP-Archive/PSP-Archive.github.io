@@ -9,7 +9,7 @@ image: /assets/img/snaps/TEMP01318_00000.jpg
 
 ## TempGBA4PSP-mod
 
-GameBoy Advance emulator, an unknown has just submitted a new version which brings some modifications on the basis of other emulators including gpSP and GPSP kai.
+<B>GameBoy Advance emulator</B>, an unknown has just submitted a new version which brings some modifications on the basis of other emulators including gpSP and GPSP kai.
 
 TempGBA4PSP-mod was created by [Phoenix](https://github.com/phoe-nix/), Anonymous Japanese Coder.
 
@@ -41,9 +41,9 @@ As for the "GU" output, that's supposed to be accelerated video (=faster), where
 
 <h5>Controls</h5>
  
-- Pad Up, Down: Select game or Folder.
-- Pad left / right: View game / folder list. Or : Start the selected game / enter the game in the selected folder.
-- X: Displays the menu.
+- Pad Up, Down : Select game or Folder.
+- Pad left / right : View game / folder list. Or : Start the selected game / enter the game in the selected folder.
+- X : Displays the menu.
 - Square : Go to a previous directory.
 - On the menu :
  
