@@ -34,6 +34,8 @@ You need the actual BIOS files. <b>gba_bios.bin</b>
 <h5>Compatibility</h5>
 I have tested some games (Advance Wars 2, Golden Sun, Kingdom Hearts, Pokemon Fire Red) and this emulator seems to be the best one available
 Yes I can also confirm that it runs Qwak, a game that didn't work at all in GPSP
+TempGBA is supposed to have better compatibility / less glitches for some games than gpSP (e.g. Golden Sun). The speed, as far I could see back when I used gpSP is about the same.
+As for the "GU" output, that's supposed to be accelerated video (=faster), whereas SW is software, which should probably be slower, although theoretically more accurate (less glitches). I use GU all the time though, and have yet to find a game that has any problem with it.
 
 <h5>Controls</h5>
  
