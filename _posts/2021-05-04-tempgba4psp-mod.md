@@ -7,12 +7,12 @@ tags: [PSP,homebrew]
 image: /assets/img/snaps/tempgba.png
 ---
 
--- Overview
+## TempGBA4PSP-mod
 
 Emulates Game Boy Advance hardware.
 Game Boy Advance dedicated software can be executed.
 
-TempGBA4PSP-mod was created by [Phoenix](https://github.com/phoe-nix/), Anonymous Japanese Coder and is 
+TempGBA4PSP-mod was created by [Phoenix](https://github.com/phoe-nix/), Anonymous Japanese Coder.
 
 Based on this version (TempGBA4PSP-26731020), http://www1.axfc.net/uploader/so/3063963
 
@@ -26,12 +26,12 @@ Based on this version (TempGBA4PSP-26731020), http://www1.axfc.net/uploader/so/3
 
 - Impoted code from TempGBA-mod-dstwo-26750220
 
-## GBA BIOS
+<h5>GBA BIOS</h5>
 
 
 To run it, you need the actual BIOS image. <b>gba_bios.bin</b>
 
-                     ::Thanks::
+<h5>Credits</h5>
 
 このソフトウェアは、takka氏のgpSP kai 3.1、Nebuleon氏のTempGBAをベースにしています。
 
@@ -48,11 +48,11 @@ Gameboy Advanceのハードウェア仕様は、以下のドキュメントを�
  VisualBoyAdvance   by Forgotten & VBA development team
  VisualBoyAdvance-M by VBA-M development team
 
-According to the documentation, turning off the graphical elements in the menus saves 1Mb of memory. Given how ugly they were, I would have gladly disabled them regardless. If you want them back, the source code is in the [PSP Archive on GitHub](https://github.com/PSP-Archive/PSP-MAME4ALL), waiting to be compiled.
 
-<video class="center" width="480" height="272" controls>
-	<source type="video/mp4" src="https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/video/2021-05-02-PSP-Mame4All.mp4">
-</video>
+
+
+	
+
 
 ### Download
 
