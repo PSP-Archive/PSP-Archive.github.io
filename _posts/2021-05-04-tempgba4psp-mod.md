@@ -4,7 +4,7 @@ title: "TempGBA4PSP-mod"
 author: "Pierre L"
 categories: emulators
 tags: [PSP,homebrew]
-image: /assets/img/snaps/tempgba.png
+image: /assets/img/snaps/TEMP01318_00000.jpg
 ---
 
 ## TempGBA4PSP-mod
