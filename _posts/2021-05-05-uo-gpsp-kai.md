@@ -6,11 +6,10 @@ categories: emulators
 tags: [PSP,homebrew]
 image: /assets/img/snaps/GPSP02328_00001.jpg
 ---
-## Unofficial gpSP Kai
 
-<b><i>Unofficial gpSP kai was created by Takka</b>
+<b><i>Unofficial gpSP kai was created by Takka</b> based on gpSP 0.9
 
--gameplaySP Gameboy Advance emulator for Playstation Portable</I>
+- gameplaySP Gameboy Advance emulator for Playstation Portable</I>
 
 
 Latest source code by takka stopped development in [2009](https://osdn.net/projects/gpsp-kai/scm/svn/tree/head/trunk/gpsp-kai-test/)
