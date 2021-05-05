@@ -7,8 +7,6 @@ tags: [PSP,homebrew]
 image: /assets/img/snaps/TEMP01318_00000.jpg
 ---
 
-## TempGBA4PSP-mod
-
 <B>GameBoy Advance emulator</B>, an unknown has just submitted a new version which brings some modifications on the basis of other emulators including gpSP and Uo gpSP kai.
 
 TempGBA4PSP-mod was created by [Phoenix](https://github.com/phoe-nix/), Anonymous Japanese Coder.
