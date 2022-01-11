@@ -15,7 +15,7 @@ Some emulators appear more than once if they support more than one system. Retro
 
 ### NES
 
-NES emulation is discussed here: [https://psp-archive.github.io/emulators/NES-emulators-PSP.html](https://psp-archive.github.io/emulators/NES-emulators-PSP.html)
+NES emulation is discussed [here](https://psp-archive.github.io/emulators/NES-emulators-PSP.html).
 
 - [FCEU-PSP](https://archive.org/details/fceu-psp.7z) by Bruno Freitas (boootsector). Last updated in 2009.
 - [FCEUltra](https://archive.org/details/fceultra-j.-7z) by boootsector, takka. Japanese interface. Last updated in 2011.
@@ -59,7 +59,7 @@ NES emulation is discussed here: [https://psp-archive.github.io/emulators/NES-em
 
 ### Game Boy / Game Boy Color
 
-Game Boy emulation is discussed here: [https://psp-archive.github.io/emulators/gameboy-emulation.html](https://psp-archive.github.io/emulators/gameboy-emulation.html)
+Game Boy emulation is discussed [here](https://psp-archive.github.io/emulators/gameboy-emulation.html).
 
 - [Gambatte PSP SDL](https://archive.org/details/gambatte-psp-sdl). Last updated in 2021.
 - [GeMP - Gameboy Emulator Media Player (Homer's RIN)](https://archive.org/details/ge-mp.-7z) by Homer, Atomos. Last updated in 2006.
@@ -80,7 +80,7 @@ Game Boy emulation is discussed here: [https://psp-archive.github.io/emulators/g
 
 ### GameBoy Advance
 
-GBA emulation is discussed here: [https://psp-archive.github.io/emulators/GBA-emulators-PSP.html](https://psp-archive.github.io/emulators/GBA-emulators-PSP.html)
+GBA emulation is discussed [here](https://psp-archive.github.io/emulators/GBA-emulators-PSP.html).
 
 - [GBA emulator](https://archive.org/details/pspgba.-7z) by Miemt11. Last updated in 2006.
 - [PSPGBA](https://archive.org/details/pspgba-v-1.2.7z) by psp298, Slasher. Last updated in 2006.
@@ -137,13 +137,13 @@ GBA emulation is discussed here: [https://psp-archive.github.io/emulators/GBA-em
 
 ### Sega Saturn
 
-Saturn emulation is discussed here: [https://psp-archive.github.io/emulators/yabause-2599.html](https://psp-archive.github.io/emulators/yabause-2599.html)
+Saturn emulation is discussed [here](https://psp-archive.github.io/emulators/yabause-2599.html).
 
 - [Yabause](https://archive.org/details/yabause-0.9.10-psp.7z) by yabause, Andrew Church. Last updated in 2010.
 
 ### Dreamcast
 
-- [nullDC-PSP](https://archive.org/details/nullDC-PSP) by drk||Raziel, xiro, hlide. Last updated in 2021.
+- [nullDC-PSP](https://archive.org/details/nullDC-PSP) by drkRaziel, xiro, hlide. Last updated in 2021.
 - [VirtuaMUnstaz VMS](https://archive.org/details/vmudemo.-7z) by VirtuaMUnstaz. VMU emulator. Last updated in 2005.
 
 ### Game Gear
@@ -167,14 +167,14 @@ Nearly all Sega Master System emulators also support Game Gear games.
 
 ### Atari 7800
 
-Atari 7800 emulation is discussed here: [https://psp-archive.github.io/emulators/7800-on-PSP.html](https://psp-archive.github.io/emulators/7800-on-PSP.html)
+Atari 7800 emulation is discussed [here](https://psp-archive.github.io/emulators/7800-on-PSP.html).
 
 - [PSP7800](https://archive.org/details/psp-7800-v-1.4.7z) by Underball. Atari 7800 emulator. Last updated in 2010.
 - [PSP7800](https://archive.org/details/psp7800.7z) by ZX-81. Atari 7800 emulator. Last updated in 2008.
 
 ### Atari Lynx
 
-Lynx emulation is discussed here: [https://psp-archive.github.io/emulators/Atari_Lynx.html](https://psp-archive.github.io/emulators/Atari_Lynx.html).
+Lynx emulation is discussed [here](https://psp-archive.github.io/emulators/Atari_Lynx.html).
 
 - [HANDY-PSP](https://archive.org/details/handy-psp-001.7z) by EXCEED. Last updated in 2005.
 - [Handy PSP](https://archive.org/details/handypsp.7z) by Akop Karapetyan. Last updated in 2007.
@@ -202,6 +202,8 @@ Lynx emulation is discussed here: [https://psp-archive.github.io/emulators/Atari
 
 ### PC Engine
 
+PC Engine emulation is discussed [here](https://psp-archive.github.io/emulators/PC_Engine.html).
+
 - [HuE](https://archive.org/details/hu-epsp-070.7z) by e (T. Kawamorita). Last updated in 2005.
 - [PCE](https://archive.org/details/pcep-083-d-6.7z) by osakana, 汁ダーク. Last updated in 2012.
 - [PSPHUGO](https://archive.org/details/psphugo.7z) by ZX-81. Last updated in 2009.
@@ -214,7 +216,7 @@ Lynx emulation is discussed here: [https://psp-archive.github.io/emulators/Atari
 
 ### Vectrex
 
-Vectrex emulation is discussed here: [https://psp-archive.github.io/emulators/Vectrex-PSP.html](https://psp-archive.github.io/emulators/Vectrex-PSP.html)
+Vectrex emulation is discussed [here](https://psp-archive.github.io/emulators/Vectrex-PSP.html).
 
 - [PSP VecX](https://archive.org/details/pspvecx.7z) by Samstag. Last updated in 2006.
 - [PSPVE](https://archive.org/details/pspve-v1.0.2-fw3x.7z) by ZX-81. Last updated in 2008.
@@ -226,7 +228,7 @@ Vectrex emulation is discussed here: [https://psp-archive.github.io/emulators/Ve
 
 ### NeoGeo Pocket / Pocket Color
 
-NGP emulation is discussed here: [https://psp-archive.github.io/emulators/NeoGeo-pocket-emulation.html](https://psp-archive.github.io/emulators/NeoGeo-pocket-emulation.html)
+NGP emulation is discussed [here](https://psp-archive.github.io/emulators/NeoGeo-pocket-emulation.html).
 
 - [NeoPop PSP](https://archive.org/details/neopoppsp.7z) by Akop Karapetyan. Last updated in 2007.
 - [RACE! PSP](https://archive.org/details/race.-7z) by theelf. Last updated in 2015.
@@ -237,7 +239,7 @@ NGP emulation is discussed here: [https://psp-archive.github.io/emulators/NeoGeo
 
 ### WonderSwan
 
-WonderSwan emulation is discussed here: [https://psp-archive.github.io/emulators/Wonderswan.html](https://psp-archive.github.io/emulators/Wonderswan.html)
+WonderSwan emulation is discussed [here](https://psp-archive.github.io/emulators/Wonderswan.html).
 
 - [Cygne](https://archive.org/details/cygne-000.7z) by REi. Last updated in 2005.
 - [OswanPSP](https://archive.org/details/oswan-psp-020.7z) by bird_may_nike. Last updated in 2008.
@@ -273,7 +275,7 @@ WonderSwan emulation is discussed here: [https://psp-archive.github.io/emulators
 
 #### Commodore 64
 
-Commodore 64 emulation is discussed here: [https://psp-archive.github.io/emulators/commodore-64-PSP.html](https://psp-archive.github.io/emulators/commodore-64-PSP.html)
+Commodore 64 emulation is discussed [here](https://psp-archive.github.io/emulators/commodore-64-PSP.html).
 
 - [PSPVice](https://archive.org/details/pspvice.7z) by Christophe Kohler. Commodore 64 emulator. Last updated in 2008.
 - [Vice-PSP](https://archive.org/details/pspvice_3.2.5.7z) by Akop Karapetyan, DelayedQuasar, rsn8887. Last updated in 2019.
@@ -281,7 +283,7 @@ Commodore 64 emulation is discussed here: [https://psp-archive.github.io/emulato
 
 #### Amiga
 
-Amiga emulation is discussed here: [https://psp-archive.github.io/emulators/Amiga_PSP.html](https://psp-archive.github.io/emulators/Amiga_PSP.html).
+Amiga emulation is discussed [here](https://psp-archive.github.io/emulators/Amiga_PSP.html).
 
 - [PSP UAE4ALL](https://archive.org/details/pspuae-4-allr-1.7z) by TTYman. Amiga emulator. Last updated in 2008.
 - [PSP-UAE](https://archive.org/details/pspuae-0.41) by Christophe Thibault. Last updated in 2005.
@@ -295,7 +297,7 @@ Amiga emulation is discussed here: [https://psp-archive.github.io/emulators/Amig
 
 ### MSX
 
-MSX emulation is discussed here: [https://psp-archive.github.io/emulators/MSX.html](https://psp-archive.github.io/emulators/MSX.html)
+MSX emulation is discussed [here](https://psp-archive.github.io/emulators/MSX.html).
 
 - [HitBit [人々エミュレータ]](https://archive.org/details/hitbit.-7z) by 聖子. Last updated in 2005.
 - [PSPMSX](https://archive.org/details/pspmsx.7z) by ZX-81. Last updated in 2009.
@@ -349,7 +351,7 @@ There's no good way to categorize these ones, is there?
 - [MVSPSP](https://archive.org/details/mvspsp-theelf.-7z) by theelf. Version of the NeoGeo MVS/AES emulator. Last updated in 2014.
 - [NamcoNA](https://archive.org/details/namcoNA.7z) by ＰＳＰ開発幼稚園. Namco System NA1 / Namco System NA2 emulator. Last updated in 2006.
 - [TaitoAX](https://archive.org/details/taitoAX.7z) by ＰＳＰ開発幼稚園. Taito Asuka and Taito X System emulator. Last updated in 2006.
-- [The Simpsons Arcade](https://archive.org/details/simpsons.7z) by . Version of FBA4PSP modified to run The Simpsons (Konami, 1991). Last updated in 2021.
+- [The Simpsons Arcade](https://archive.org/details/simpsons.7z). Version of FBA4PSP modified to run The Simpsons (Konami, 1991). Last updated in 2021.
 - [Unofficial MVSPSP](https://archive.org/details/uo_mvspsp_2.3.1_1.5_kernel_mod_r5.7z) by NJ, 173210. NeoGeo MVS emulator. Last updated in 2014.
 
 #### CPS 1/2/3
@@ -358,7 +360,7 @@ There's no good way to categorize these ones, is there?
 - [CPS1PSP](https://archive.org/details/cps-1-psp-2.3.5.7z) by NJ, phoe-nix. Last updated in 2018.
 - [CPS2PSP](https://archive.org/details/cps-2-psp-slim-2.3.5.7z) by NJ, phoe-nix. Last updated in 2018.
 - [CPS2psp](https://archive.org/details/c-2-p-101-a-00.7z) by ＰＳＰ開発幼稚園, ＮＪ. Last updated in 2006.
-- [FBA4PSP CPS3](https://archive.org/details/cps3.7z) by OopsWare, Lbicelyne. Supports CPS1, CPS2 and CPS3 games. Last updated in 1900.
+- [FBA4PSP CPS3](https://archive.org/details/cps3.7z) by OopsWare, Lbicelyne. Supports CPS1, CPS2 and CPS3 games.
 - [Unofficial CPS1PSP](https://archive.org/details/uo_cps1psp_2.3.1_1.5_kernel_mod_r5.7z) by NJ, 173210. Last updated in 2014.
 - [Unofficial CPS2PSP](https://archive.org/details/uo_cps2psp_2.3.1_1.5_kernel_mod_r5.7z) by NJ, 173210. Last updated in 2014.
 
