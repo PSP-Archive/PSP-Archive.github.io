@@ -21,7 +21,7 @@ The history of SNES emulation on PSP, like many other PSP scene stories, begins 
 
 After nem's [Hello World](https://archive.org/details/hellopsp_R1.7z) and Mirakichi's [Game Boy emulator](https://archive.org/details/gbemu.7z), everyone's expectations were unbridled, awaiting a new system to be emulated every day.
 
-For the most part, they were not disappointed. Emulators for all sorts of systems were being released on the Japanese [PSP-wiki](http://psp.holybell.to/) almost daily, and the SNES was no exception.
+For the most part, they were not disappointed. Emulators for all sorts of systems were being released on the Japanese [PSPwiki](https://web.archive.org/web/20050517083941/http://psp.holybell.to:80/) almost daily, and the SNES was no exception.
 
 Barely two weeks after Hello World, Bifuteki released the [first working port](https://archive.org/details/snes-9-x.-7z) of Snes9x to PSP.
 
@@ -49,7 +49,7 @@ But Snes9x for PSP needed more than patches. It needed a healthy speed boost if 
 
 The PSP scene didn't have to wait long for such an improvement. 
 
-August 2005 saw the release of snes9xTYL, the work of ThunderZ, [YoyoFR](http://yoyofr92.free.fr/psp/snespsp.html) and Laxer3a. 
+August 2005 saw the release of [snes9xTYL](https://archive.org/details/s9xTYL-0.4.2me.7z), the work of ThunderZ, [YoyoFR](http://yoyofr92.free.fr/psp/snespsp.html) and Laxer3a. 
 
 Although ThunderZ's name was removed in later versions, for whatever reason.
 
@@ -83,7 +83,7 @@ You can get some playtime even from the SuperFX titles, such as StarFox 2.
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/esmjanus_sf2.webp)
 
-#### Euphoria detour
+### Euphoria detour
 
 A coder known as Zack decided to build on Ruka's TYL code (apparently eschewing 33(76)氏's additions) by releasing the [Euphoria fork](https://web.archive.org/web/20091023065110/http://www.retroemu.com/forum/index.php?/topic/13-release-snes9x-euphoria-r1-speed/
 ) in October 2009.
@@ -94,7 +94,7 @@ And it did not rely on the Media Engine, which later made it popular among Vita 
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/euphoria.webp)
 
-But ultimately, the fork died out with the last official release by Zack, in 2011. The later work on the main TYL branched has eclipsed its - once considerable - speed advantages.
+But ultimately, the fork died out with the last official release by Zack, in 2011. The later work on the main TYL branch has eclipsed its - once considerable - speed advantages.
 
 The Euphoria fork was one of the few emulators to enter a PSP coding contest, in August 2010. 
 

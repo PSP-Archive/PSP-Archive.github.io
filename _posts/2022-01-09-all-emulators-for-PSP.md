@@ -11,13 +11,15 @@ I'm making this list mostly because I lost track of the emulation options myself
 
 Some emulators appear more than once if they support more than one system. RetroArch cores are excluded as they have [their own article](https://psp-archive.github.io/emulators/retroarch-197.html).
 
+For each system, I highlighted my preferred build (in case there is one).
+
 ## Nintendo
 
 ### NES
 
 NES emulation is discussed [here](https://psp-archive.github.io/emulators/NES-emulators-PSP.html).
 
-- [FCEU-PSP](https://archive.org/details/fceu-psp.7z) by Bruno Freitas (boootsector). Last updated in 2009.
+- <mark>[FCEU-PSP](https://archive.org/details/fceu-psp.7z)</mark> by Bruno Freitas (boootsector). Last updated in 2009.
 - [FCEUltra](https://archive.org/details/fceultra-j.-7z) by boootsector, takka. Japanese interface. Last updated in 2011.
 - [Famicontest [ふぁみこんえみゅてすと]](https://archive.org/details/famicontest031.7z) by Binboukamisami. Last updated in 2005.
 - [InfoNES](https://archive.org/details/info-nes-r-03.7z) by TMK. Last updated in 2005.
@@ -36,6 +38,8 @@ NES emulation is discussed [here](https://psp-archive.github.io/emulators/NES-em
 
 ### SNES
 
+SNES emulation is discussed [here](https://psp-archive.github.io/emulators/SNES_emulation_PSP.html).
+
 - [Snes9x Euphoria](https://archive.org/details/snes9x_euphoria_r5beta3.7z) by Zack. Last updated in 2011.
 - [Snes9x Euphoria](https://archive.org/details/snes-9x-euphoria-no-me.-7z) by Zack, takka. Last updated in 2011.
 - [Snes9x Unofficial](https://archive.org/details/snes-9-x-yoshihiro-optimized.-7z) by Yoshihiro. Last updated in 2005.
@@ -43,7 +47,7 @@ NES emulation is discussed [here](https://psp-archive.github.io/emulators/NES-em
 - [Snes9xTYL mecm](https://archive.org/details/s9xTYLmecm091115.7z) by 33(76)氏. Last updated in 2009.
 - [SnesPSP TYL](https://archive.org/details/s9xTYL-0.4.2me.7z) by ThunderZ, YoyoFR, Laxer3a. Last updated in 2006.
 - [SnesPSP TYL](https://archive.org/details/snes-9x-tyl-0.4.2me.-7z) by ruka. Last updated in 2007.
-- [s9xTYLme Mod](https://archive.org/details/s9xTYLme_mod.7z) by ThunderZ, YoyoFR, Laxer3a, esmjanus. Last updated in 2018.
+- <mark>[s9xTYLme Mod](https://archive.org/details/s9xTYLme_mod.7z)</mark> by ThunderZ, YoyoFR, Laxer3a, esmjanus. Last updated in 2018.
 - [snes9x/1.52.81](https://archive.org/details/snes9x-1.52.81-psp.7z) by ひっそりぃ (hissorii). Last updated in 2011.
 - [snes9xTYL](https://archive.org/details/s9xTYLmecm_mod.7z) by ThunderZ, YoyoFR, Laxer3a, 173210. Last updated in 2015.
 - [uo Snes9x](https://archive.org/details/uo_Snes9x-0.02pd2-20050728.7z) by Andon. Last updated in 2005.
@@ -52,7 +56,7 @@ NES emulation is discussed [here](https://psp-archive.github.io/emulators/NES-em
 ### Nintendo 64
 
 - [Daedalus](https://archive.org/details/daedalus.-7z) by StrmnNrmn. Last updated in 2007.
-- [DaedalusX64](https://archive.org/details/daedalus-x-64.7z) by Wally, z2442. Last updated in 2019.
+- <mark>[DaedalusX64](https://archive.org/details/daedalus-x-64.7z)</mark> by Wally, z2442. Last updated in 2019.
 - [Monkey64](https://archive.org/details/monkey-64-0311.7z) by PSmonkey. Last updated in 2006.
 - [Nincest 64](https://archive.org/details/nincest-64.7z) by PSmonkey. Last updated in 2006.
 - [Siren64](https://archive.org/details/siren-64-rev-466.-7z) by 4CLOVERS. Fork of DaedalusX64, created to support the game Fushigi no Dungeon - Furai no Siren 2. Last updated in 2010.
@@ -63,7 +67,7 @@ Game Boy emulation is discussed [here](https://psp-archive.github.io/emulators/g
 
 - [Gambatte PSP SDL](https://archive.org/details/gambatte-psp-sdl). Last updated in 2021.
 - [GeMP - Gameboy Emulator Media Player (Homer's RIN)](https://archive.org/details/ge-mp.-7z) by Homer, Atomos. Last updated in 2006.
-- [MasterBoy](https://archive.org/details/masterboy.-7z) by Florian Brönnimann (Brunni). Last updated in 2007.
+- <mark>[MasterBoy](https://archive.org/details/masterboy.-7z)</mark> by Florian Brönnimann (Brunni). Last updated in 2007.
 - [MasterBoy](https://archive.org/details/masterboy-theelf.7z) by theelf. Last updated in 2015.
 - [PSP RIN](https://archive.org/details/rin-1-32-rm.-7z) by Mirakichi, mbarczak. With rewind support. Last updated in 2019.
 - [PSP-gnuboy](https://archive.org/details/pspgnuboy_rls.7z) by HamsterBert. Last updated in 2006.
@@ -73,6 +77,8 @@ Game Boy emulation is discussed [here](https://psp-archive.github.io/emulators/g
 - [RIN RX](https://archive.org/details/rin-rx.-7z) by KrK. Last updated in 2017.
 - [SpiceBoy](https://archive.org/details/spice-boy.-7z) by Arguru. Last updated in 2006.
 - [e[mulator]](https://archive.org/details/emulator_082f.7z) by e (T. Kawamorita). Last updated in 2006.
+
+The Gambatte core on RetroArch is also a good options for the titles MasterBoy can't handle.
 
 ### Virtual Boy
 
@@ -86,7 +92,7 @@ GBA emulation is discussed [here](https://psp-archive.github.io/emulators/GBA-em
 - [PSPGBA](https://archive.org/details/pspgba-v-1.2.7z) by psp298, Slasher. Last updated in 2006.
 - [PSPVBA](https://archive.org/details/pspvba.7z) by ZX-81. Last updated in 2006.
 - [TempGBA](https://archive.org/details/temp-gba.-7z_202102). Last updated in 2013.
-- [TempGBA4PSP-Mod](https://archive.org/details/temp-gba-4-psp-mod.-7z) by phoe-nix, anonymous Japanese developer. Last updated in 2016.
+- <mark>[TempGBA4PSP-Mod](https://archive.org/details/temp-gba-4-psp-mod.-7z)</mark> by phoe-nix, anonymous Japanese developer. Last updated in 2016.
 - [Unofficial gpSP Kai](https://archive.org/details/gp-sp-kai-v-3.4-test-4-b-230fat.-7z) by Exophase, Takka, ErikPshat. Last updated in 2017.
 - [VBA](https://archive.org/details/vbapsp.7z) by 499氏. Last updated in 2005.
 - [gpSP – gameplaySP](https://archive.org/details/gpsp09.7z). Last updated in 2006.
@@ -111,7 +117,7 @@ GBA emulation is discussed [here](https://psp-archive.github.io/emulators/GBA-em
 - [MMSPlus](https://archive.org/details/mmsplus.-7z) by Florian Brönnimann (Brunni). Last updated in 2006.
 - [PSPMaster](https://archive.org/details/pspm.-7z) by [Bo]Trops. Last updated in 2006.
 - [SMS PSP](https://archive.org/details/sms-psp-v-0.3.7z) by Yoshihiro. Last updated in 2005.
-- [SMS Plus PSP](https://archive.org/details/smsplus-1.3.1-1.0.7z) by Akop Karapetyan. Also supports SG-1000 games. Last updated in 2010.
+- <mark>[SMS Plus PSP](https://archive.org/details/smsplus-1.3.1-1.0.7z)</mark> by Akop Karapetyan. Also supports SG-1000 games. Last updated in 2010.
 - [SMS Plus PSP](https://archive.org/details/smsplus.-7z_202107) by theelf. Last updated in 2015.
 - [SMS Plus PSP Adhoc](https://archive.org/details/smsplusadhoc.7z) by Akop Karapetyan. With experimental ad-hoc support. Last updated in 2008.
 - [SMS Plus PSP [Japanese]](https://archive.org/details/smsppsp_jp.7z) by KrK. In Japanese. Last updated in 2015.
@@ -130,10 +136,12 @@ GBA emulation is discussed [here](https://psp-archive.github.io/emulators/GBA-em
 - [PSPadrive](https://archive.org/details/pspadrive.7z) by HamsterBert. Last updated in 2006.
 - [Pico-drive](https://archive.org/details/picodrivea14.7z) by ＰＳＰ開発幼稚園. Last updated in 2006.
 - [PicoDrive](https://archive.org/details/picodrive-1.92.3.7z) by Robson Alcantara. Some support for Sega CD / Mega CD. Last updated in 2018.
-- [PicoDrive](https://archive.org/details/pico-drive-psp-151b.-7z) by Notaz. Last updated in 2008.
+- <mark>[PicoDrive](https://archive.org/details/pico-drive-psp-151b.-7z)</mark> by Notaz. Last updated in 2008.
 - [PicoDrive [Russian]](https://archive.org/details/pico-drive-rus.-7z) by Re-Education. In Russian.
 - [PicoDrive 汉化版](https://archive.org/details/pico-drive-cn-bin.-7z) by tensai_wang. In Chinese. Last updated in 2010.
 - [Unofficial Picodrive R](https://archive.org/details/uoPicodrive135bR_by_davex-psp_slim.7z) by davex. With rewind mode. Last updated in 2009.
+
+The Picodrive core on RetroArch can handle some 32X titles.
 
 ### Sega Saturn
 
@@ -170,7 +178,7 @@ Nearly all Sega Master System emulators also support Game Gear games.
 Atari 7800 emulation is discussed [here](https://psp-archive.github.io/emulators/7800-on-PSP.html).
 
 - [PSP7800](https://archive.org/details/psp-7800-v-1.4.7z) by Underball. Atari 7800 emulator. Last updated in 2010.
-- [PSP7800](https://archive.org/details/psp7800.7z) by ZX-81. Atari 7800 emulator. Last updated in 2008.
+- <mark>[PSP7800](https://archive.org/details/psp7800.7z)</mark> by ZX-81. Atari 7800 emulator. Last updated in 2008.
 
 ### Atari Lynx
 
@@ -178,7 +186,7 @@ Lynx emulation is discussed [here](https://psp-archive.github.io/emulators/Atari
 
 - [HANDY-PSP](https://archive.org/details/handy-psp-001.7z) by EXCEED. Last updated in 2005.
 - [Handy PSP](https://archive.org/details/handypsp.7z) by Akop Karapetyan. Last updated in 2007.
-- [PLynx](https://archive.org/details/plynx-v-09.7z) by PLynx. Last updated in 2006.
+- <mark>[PLynx](https://archive.org/details/plynx-v-09.7z)</mark> by PLynx. Last updated in 2006.
 - [e[mulator]](https://archive.org/details/emulator_082f.7z) by e (T. Kawamorita). Last updated in 2006.
 
 ## Misc. consoles and other devices
@@ -206,7 +214,7 @@ PC Engine emulation is discussed [here](https://psp-archive.github.io/emulators/
 
 - [HuE](https://archive.org/details/hu-epsp-070.7z) by e (T. Kawamorita). Last updated in 2005.
 - [PCE](https://archive.org/details/pcep-083-d-6.7z) by osakana, 汁ダーク. Last updated in 2012.
-- [PSPHUGO](https://archive.org/details/psphugo.7z) by ZX-81. Last updated in 2009.
+- <mark>[PSPHUGO](https://archive.org/details/psphugo.7z)</mark> by ZX-81. Last updated in 2009.
 - [e[mulator]](https://archive.org/details/emulator_082f.7z) by e (T. Kawamorita). Last updated in 2006.
 
 ### PlayStation
@@ -219,7 +227,7 @@ PC Engine emulation is discussed [here](https://psp-archive.github.io/emulators/
 Vectrex emulation is discussed [here](https://psp-archive.github.io/emulators/Vectrex-PSP.html).
 
 - [PSP VecX](https://archive.org/details/pspvecx.7z) by Samstag. Last updated in 2006.
-- [PSPVE](https://archive.org/details/pspve-v1.0.2-fw3x.7z) by ZX-81. Last updated in 2008.
+- <mark>[PSPVE](https://archive.org/details/pspve-v1.0.2-fw3x.7z)</mark> by ZX-81. Last updated in 2008.
 
 ## Misc. handhelds
 
@@ -232,7 +240,7 @@ NGP emulation is discussed [here](https://psp-archive.github.io/emulators/NeoGeo
 
 - [NeoPop PSP](https://archive.org/details/neopoppsp.7z) by Akop Karapetyan. Last updated in 2007.
 - [RACE! PSP](https://archive.org/details/race.-7z) by theelf. Last updated in 2015.
-- [RACE! PSP](https://archive.org/details/race-2.16-1.0.7z) by Akop Karapetyan. Last updated in 2009.
+- <mark>[RACE! PSP](https://archive.org/details/race-2.16-1.0.7z)</mark> by Akop Karapetyan. Last updated in 2009.
 - [RACE! PSP [Japanese]](https://archive.org/details/race-jp.-7z). In Japanese. Last updated in 2009.
 - [ngPsp](https://archive.org/details/ngpsp.7z_202101) by Nexis2600 (PSmonkey). Last updated in 2005.
 - [e[mulator]](https://archive.org/details/emulator_082f.7z) by e (T. Kawamorita). Last updated in 2006.
@@ -242,7 +250,7 @@ NGP emulation is discussed [here](https://psp-archive.github.io/emulators/NeoGeo
 WonderSwan emulation is discussed [here](https://psp-archive.github.io/emulators/Wonderswan.html).
 
 - [Cygne](https://archive.org/details/cygne-000.7z) by REi. Last updated in 2005.
-- [OswanPSP](https://archive.org/details/oswan-psp-020.7z) by bird_may_nike. Last updated in 2008.
+- <mark>[OswanPSP](https://archive.org/details/oswan-psp-020.7z)</mark> by bird_may_nike. Last updated in 2008.
 - [eSwan](https://archive.org/details/eSwan009.7z) by e (T. Kawamorita). Last updated in 2005.
 - [oSwan v0.7](https://archive.org/details/oswan001.7z) by REi. Last updated in 2005.
 - [pSwan](https://archive.org/details/pSwan_v007.7z) by kmg. Last updated in 2005.
@@ -277,7 +285,7 @@ WonderSwan emulation is discussed [here](https://psp-archive.github.io/emulators
 
 Commodore 64 emulation is discussed [here](https://psp-archive.github.io/emulators/commodore-64-PSP.html).
 
-- [PSPVice](https://archive.org/details/pspvice.7z) by Christophe Kohler. Commodore 64 emulator. Last updated in 2008.
+- <mark>[PSPVice](https://archive.org/details/pspvice.7z)</mark> by Christophe Kohler. Commodore 64 emulator. Last updated in 2008.
 - [Vice-PSP](https://archive.org/details/pspvice_3.2.5.7z) by Akop Karapetyan, DelayedQuasar, rsn8887. Last updated in 2019.
 - [c64psp](https://archive.org/details/c64psp.7z) by urchin. Commodore 64 emulator. Last updated in 2005.
 
@@ -302,7 +310,7 @@ MSX emulation is discussed [here](https://psp-archive.github.io/emulators/MSX.ht
 - [HitBit [人々エミュレータ]](https://archive.org/details/hitbit.-7z) by 聖子. Last updated in 2005.
 - [PSPMSX](https://archive.org/details/pspmsx.7z) by ZX-81. Last updated in 2009.
 - [fMSX PSP](https://archive.org/details/fmsxpsp.7z) by Akop Karapetyan, DelayedQuasar. Last updated in 2018.
-- [fMSX](https://archive.org/details/fMSX061.7z) by osakana, orz, snatcher. Last updated in 2005.
+- <mark>[fMSX](https://archive.org/details/fMSX061.7z)</mark> by osakana, orz, snatcher. Last updated in 2005.
 - [uMSX](https://archive.org/details/uMSX.7z) by Uguru. Last updated in 2008.
 
 ### PC-88
