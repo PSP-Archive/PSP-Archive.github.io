@@ -78,7 +78,7 @@ Game Boy emulation is discussed [here](https://psp-archive.github.io/emulators/g
 - [SpiceBoy](https://archive.org/details/spice-boy.-7z) by Arguru. Last updated in 2006.
 - [e[mulator]](https://archive.org/details/emulator_082f.7z) by e (T. Kawamorita). Last updated in 2006.
 
-The Gambatte core on RetroArch is also a good options for the titles MasterBoy can't handle.
+The Gambatte core on RetroArch is also a good option for the titles MasterBoy can't handle.
 
 ### Virtual Boy
 
@@ -100,6 +100,8 @@ GBA emulation is discussed [here](https://psp-archive.github.io/emulators/GBA-em
 - [gpSP-mod](https://archive.org/details/gpSPmod20090720.7z). Last updated in 2009.
 
 ### Nintendo DS
+
+**Note**: DeSmuME PSP by Xiro is the best option, but even then only usable for simple, purely 2D titles such as Zoo Keeper. 3D games run slowly and with heavy glitches. It also only supports PSP-2000 and later models.
 
 - [DSONPSP](https://archive.org/details/dsonpsp-beta-7-wip.-7z) by yoshihiro. Last updated in 2009.
 - [DSONPSP Mod](https://archive.org/details/dsonpsp-mod-by-rnb-psp.-7z) by RNB_PSP. Last updated in 2010.
