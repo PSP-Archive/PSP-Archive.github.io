@@ -187,3 +187,5 @@ The Christmas-themed [Las Adventuras de Santa Claus](https://archive.org/details
 I must say I have gained a lot of respect for YouTubers from writing this. I'm not even halfway through one half of the video, and I'm already pretty tired. Making videos of games for a living must not be as easy as I imagined. YouTubers may be sellouts, but they sure aren't lazy.
 
 Framerater covered four times as many homebrews as I have by this point, and he only got a little over 30,000 views for his trouble. That's not enough ad revenue for a cheeseburger. If you're a PSP fan give the guy [some extra clicks](https://www.youtube.com/channel/UCCgG9KExe3OEOLcHO4z1B3g), for Christ.
+
+**UPDATE**: second part [here](https://psp-archive.github.io/games/Framerater-homebrews-2.html)

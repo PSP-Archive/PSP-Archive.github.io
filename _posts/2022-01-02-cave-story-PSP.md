@@ -54,7 +54,7 @@ Apparently, he was determined and headstrong enough about the project that he st
 
 He didn't go far with it - he only made a demo version ([still available today](https://archive.org/download/cave-00992-00000/Old%20Versions/cs-psp-demo-1.0.zip)) which ends at the first boss fight. 
 
-But he had enough to [showcase it to Pixel](https://web.archive.org/web/20080302103923/http://community.livejournal.com:80/doukutsu/92540.html)), who was impressed enough with ufo_z's work to give him his blessing. And access to the game's source code.
+But he had enough to [showcase it to Pixel](https://web.archive.org/web/20080302103923/http://community.livejournal.com:80/doukutsu/92540.html), who was impressed enough with ufo_z's work to give him his blessing. And access to the game's source code.
 
 Ultimately, Cave Story had a homebrew release and became one of the most played free games on PSP. 
 

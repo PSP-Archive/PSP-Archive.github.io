@@ -27,13 +27,9 @@ It is enough to point the emulator to the first two of the four files, and selec
 
 Soon after loading the game though, I hit a brick wall. 
 
-The PC-98 had a screen resolution of 640×400 pixels. 
+The PC-98 had a screen resolution of 640×400 pixels. To fit the image into a PSP screen (480x272), the emulator has to nearly halve the resolution.
 
-To fit the image into a PSP screen (480x272), the emulator has to nearly halve the resolution.
-
-None of this would much matter if we were playing a Doom or Mario. 
-
-But these are visual novels. If downscaling makes the text unreadable, there is no point in playing them.
+None of this would much matter if we were playing a Doom or Mario. But these are visual novels. If downscaling makes the text unreadable, there is no point in playing them.
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/np2_dotb_text.webp)
 
@@ -57,9 +53,7 @@ It doesn't, but the screen is still causing trouble.
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/np2_puyo_2.webp)
 
-Resolution seems to have nothing to do with it this time.
-
-I tried changing a bunch of settings, to no avail. 
+Resolution seems to have nothing to do with it this time. I tried changing a number of settings - to no avail. 
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/np2_puyo_3.webp)
 
