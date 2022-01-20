@@ -82,6 +82,8 @@ The Gambatte core on RetroArch is also a good option for the titles MasterBoy ca
 
 ### Virtual Boy
 
+⚠️ **Note**: proof of concept. Unplayable, as controls were never implemented.
+
 - [RedDragon](https://archive.org/details/reddragon20071019.7z) by SofiyaCat. Last updated in 2007.
 
 ### GameBoy Advance
@@ -101,7 +103,7 @@ GBA emulation is discussed [here](https://psp-archive.github.io/emulators/GBA-em
 
 ### Nintendo DS
 
-**Note**: DeSmuME PSP by Xiro is the best option, but even then only usable for simple, purely 2D titles such as Zoo Keeper. 3D games run slowly and with heavy glitches. It also only supports PSP-2000 and later models.
+⚠️ **Note**: DeSmuME PSP by Xiro is the best option, but even then only usable for simple, purely 2D titles such as Zoo Keeper. 3D games run slowly and with heavy glitches. It also only supports PSP-2000 and later models.
 
 - [DSONPSP](https://archive.org/details/dsonpsp-beta-7-wip.-7z) by yoshihiro. Last updated in 2009.
 - [DSONPSP Mod](https://archive.org/details/dsonpsp-mod-by-rnb-psp.-7z) by RNB_PSP. Last updated in 2010.
@@ -152,6 +154,8 @@ Saturn emulation is discussed [here](https://psp-archive.github.io/emulators/yab
 - [Yabause](https://archive.org/details/yabause-0.9.10-psp.7z) by yabause, Andrew Church. Last updated in 2010.
 
 ### Dreamcast
+
+⚠️ **Note**: experimental. Most games are unplayable, save some very simple titles such as ChuChu Rocket. A [compatibility list](https://psp-archive.github.io/nulldce-psp/) is available.
 
 - [nullDC-PSP](https://archive.org/details/nullDC-PSP) by drkRaziel, xiro, hlide. Last updated in 2021.
 - [VirtuaMUnstaz VMS](https://archive.org/details/vmudemo.-7z) by VirtuaMUnstaz. VMU emulator. Last updated in 2005.
@@ -252,7 +256,7 @@ NGP emulation is discussed [here](https://psp-archive.github.io/emulators/NeoGeo
 WonderSwan emulation is discussed [here](https://psp-archive.github.io/emulators/Wonderswan.html).
 
 - [Cygne](https://archive.org/details/cygne-000.7z) by REi. Last updated in 2005.
-- 👉 **[OswanPSP](https://archive.org/details/oswan-psp-020.7z)** by bird_may_nike. Last updated in 2008.
+- 👉 **[OswanPSP](https://archive.org/details/oswan-psp-020.7z)** by bird_may_nike. Interface only in Japanese. Last updated in 2008.
 - [eSwan](https://archive.org/details/eSwan009.7z) by e (T. Kawamorita). Last updated in 2005.
 - [oSwan v0.7](https://archive.org/details/oswan001.7z) by REi. Last updated in 2005.
 - [pSwan](https://archive.org/details/pSwan_v007.7z) by kmg. Last updated in 2005.
@@ -322,6 +326,8 @@ MSX emulation is discussed [here](https://psp-archive.github.io/emulators/MSX.ht
 
 ### PC-98
 
+PC-98 emulation is discussed [here](https://psp-archive.github.io/emulators/PC98_emulation_PSP.html).
+
 - [NP2](https://archive.org/details/np-2-for-psp-v-0.39.7z) by sakahi, ひっそりぃ (hissorii). Last updated in 2011.
 - [NP21](https://archive.org/details/np-21-for-psp-v-0.39.7z) by sakahi, ひっそりぃ (hissorii). Last updated in 2011.
 
@@ -367,8 +373,8 @@ There's no good way to categorize these ones, is there?
 #### CPS 1/2/3
 
 - [CPS1 Emulator](https://archive.org/details/ccps-1.7z) by sasuke2911. Last updated in 2006.
-- [CPS1PSP](https://archive.org/details/cps-1-psp-2.3.5.7z) by NJ, phoe-nix. Last updated in 2018.
-- [CPS2PSP](https://archive.org/details/cps-2-psp-slim-2.3.5.7z) by NJ, phoe-nix. Last updated in 2018.
+- 👉 **[CPS1PSP](https://archive.org/details/cps-1-psp-2.3.5.7z)** by NJ, phoe-nix. Last updated in 2018.
+- 👉 **[CPS2PSP](https://archive.org/details/cps-2-psp-slim-2.3.5.7z)** by NJ, phoe-nix. Last updated in 2018.
 - [CPS2psp](https://archive.org/details/c-2-p-101-a-00.7z) by ＰＳＰ開発幼稚園, ＮＪ. Last updated in 2006.
 - [FBA4PSP CPS3](https://archive.org/details/cps3.7z) by OopsWare, Lbicelyne. Supports CPS1, CPS2 and CPS3 games.
 - [Unofficial CPS1PSP](https://archive.org/details/uo_cps1psp_2.3.1_1.5_kernel_mod_r5.7z) by NJ, 173210. Last updated in 2014.
