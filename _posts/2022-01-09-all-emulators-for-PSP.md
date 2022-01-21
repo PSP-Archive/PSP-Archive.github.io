@@ -13,6 +13,17 @@ Some emulators appear more than once if they support more than one system. Retro
 
 For each system, I highlighted my preferred build (in case there is one).
 
+## Content
+
+- [Nintendo](#nintendo)
+- [Sega](#sega)
+- [Atari](#atari)
+- [Misc. consoles and other devices](#misc-consoles-and-other-devices)
+- [Misc. handhelds](#misc-handhelds)
+- [Home computers](#home-computers)
+- [Arcade](#arcade)
+- [Not quite emulators](#not-quite-emulators)
+
 ## Nintendo
 
 ### NES
@@ -149,6 +160,8 @@ The Picodrive core on RetroArch can handle some 32X titles.
 
 ### Sega Saturn
 
+⚠️ **Note**: only works for a handful of titles.
+
 Saturn emulation is discussed [here](https://psp-archive.github.io/emulators/yabause-2599.html).
 
 - [Yabause](https://archive.org/details/yabause-0.9.10-psp.7z) by yabause, Andrew Church. Last updated in 2010.
@@ -225,6 +238,8 @@ PC Engine emulation is discussed [here](https://psp-archive.github.io/emulators/
 
 ### PlayStation
 
+Superseded by POPS, the official PS1 emulator.
+
 - [PS1P](https://archive.org/details/ps1p_alpha1.7z) by Anonymous Coder. Last updated in 2006.
 - [Psx-P](https://archive.org/details/psxp.-7z) by Yoshihiro. Last updated in 2006.
 
@@ -299,11 +314,15 @@ Commodore 64 emulation is discussed [here](https://psp-archive.github.io/emulato
 
 Amiga emulation is discussed [here](https://psp-archive.github.io/emulators/Amiga_PSP.html).
 
+PSP UAE4ALL is the best bet, but only for games that can start (and be played) without any keyboard input.
+
 - [PSP UAE4ALL](https://archive.org/details/pspuae-4-allr-1.7z) by TTYman. Amiga emulator. Last updated in 2008.
 - [PSP-UAE](https://archive.org/details/pspuae-0.41) by Christophe Thibault. Last updated in 2005.
 - [PSPUAE](https://archive.org/details/pspuae-080-beta-13.7z) by FOL, Christophe Thibault. Last updated in 2014.
 
 ### DOS / x86
+
+Only DOSBox is really usable, but setting it up can be a pain.
 
 - [Bochs](https://archive.org/details/bochs-freedos.7z) by Matan Gillon. Proof of concept. Last updated in 2005.
 - [DOSBox](https://archive.org/details/dosbox-psp.-7z) by crazyc. Last updated in 2020.
