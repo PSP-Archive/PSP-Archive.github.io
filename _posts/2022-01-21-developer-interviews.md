@@ -23,6 +23,8 @@ I always enjoyed reading them, but I never bothered to collect them all in one p
 
 - [Exophase](https://www.dcemu.co.uk/vbulletin/threads/33855-DCEmu-Interview-Exophase-The-Coder-of-the-Full-Speed-GBA-Emu-for-PSP-gpPSP) (2006)
 
+- [Blue2k](https://web.archive.org/web/20060428132127/http://www.pspemulation.com/index.php?option=com_content&task=view&id=104&Itemid=25), developer of [Artillery Shell](https://archive.org/details/artillery-0.2.7z) (2006)
+
 - [Akop Karapetyan](http://forums.qj.net/psp-homebrew-hacks-discussion/118488-interview-akop-aka-ueberjack-fmsx-smsplus-atari800-psp-developer.html) (2007)
 
 - [Fanjita](https://web.archive.org/web/20070513033200/http://www.skinnymag.co.uk/content/view/4691/) (2007)

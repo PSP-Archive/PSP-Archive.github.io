@@ -7,7 +7,7 @@ tags: [PSP,homebrew]
 image: /assets/img/random/httpwwwpsp-stylecokr.webp
 ---
 
-I'm making this list mostly because I lost track of the emulation options myself. As an alternative, there is also the [EmuGen Wiki entry](https://emulation.gametechwiki.com/index.php/Emulators_on_PSP) about PSP.
+I'm making this list mostly because I lost track of the emulation options myself. As an alternative, there is also the [EmuGen Wiki entry](https://emulation.gametechwiki.com/index.php/Emulators_on_PSP) about PSP. Framerater's [guide to PSP emulation](https://www.youtube.com/watch?v=n5zd_IArNzk) is another great resource on the topic.
 
 Some emulators appear more than once if they support more than one system. RetroArch cores are excluded as they have [their own article](https://psp-archive.github.io/emulators/retroarch-197.html).
 
