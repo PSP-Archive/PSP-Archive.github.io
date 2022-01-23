@@ -7,9 +7,13 @@ tags: [PSP,homebrew]
 image: /assets/img/random/httpwwwpsp-stylecokr.webp
 ---
 
-I'm making this list mostly because I lost track of the emulation options myself. As an alternative, there is also the [EmuGen Wiki entry](https://emulation.gametechwiki.com/index.php/Emulators_on_PSP) about PSP. Framerater's [guide to PSP emulation](https://www.youtube.com/watch?v=n5zd_IArNzk) is another great resource on the topic.
+I'm making this list mostly because I lost track of the emulation options myself. Some emulators appear more than once if they support more than one system. RetroArch cores are excluded as they have [their own article](https://psp-archive.github.io/emulators/retroarch-197.html).
 
-Some emulators appear more than once if they support more than one system. RetroArch cores are excluded as they have [their own article](https://psp-archive.github.io/emulators/retroarch-197.html).
+Alternative resources:
+
+- [EmuGen Wiki entry](https://emulation.gametechwiki.com/index.php/Emulators_on_PSP) about PSP,
+- Framerater's [guide to PSP emulation](https://www.youtube.com/watch?v=n5zd_IArNzk),
+- [GBATemp](https://wiki.gbatemp.net/wiki/Emulation_on_PSP)'s wiki on PSP emulation.
 
 For each system, I highlighted my preferred build (in case there is one).
 
@@ -285,6 +289,8 @@ WonderSwan emulation is discussed [here](https://psp-archive.github.io/emulators
 ## Home computers
 
 ### Amstrad CPC
+
+CPC is discussed [here](https://psp-archive.github.io/emulators/Wonderswan.html).
 
 - [CPCPSP](https://archive.org/details/cpcpsp-v-01.7z) by Nige. Last updated in 2005.
 - [Caprice32](https://archive.org/details/cpc-300750-00000) by Akop Karapetyan, DelayedQuasar. Last updated in 2019.
