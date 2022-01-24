@@ -31,6 +31,8 @@ I always enjoyed reading them, but I never bothered to collect them all in one p
 
 - [Fanjita, Dark Alex](http://news.bbc.co.uk/2/hi/technology/6397797.stm) (2007)
 
+- [Bumuckl](https://web.archive.org/web/20071227031035/http://pspsource.de/hdp_plugins/content/content.php?content.83), creator of [Bermuda CS](https://archive.org/details/bermudacs9_compability_fix.7z) (2007, in German)
+
 - [Chilly Willy](https://forums.exophase.com/threads/spotlight-hogger-interview-with-chilly-willy-part-1.7555/) (2008, 1st part)
 - [Chilly Willy](https://forums.exophase.com/threads/interview-with-chilly-willy-part-2.7556/) (2008, 2nd part)
 
@@ -41,3 +43,5 @@ I always enjoyed reading them, but I never bothered to collect them all in one p
 - [Coldbird, VF](https://wololo.net/2011/04/04/coldbird-and-vf-the-big-interview-part-1/) (2011)
 
 - [Total_Noob](http://forums.qj.net/psp-general/178413-total_noob-big-interview.html) (2011)
+
+- [Z2442](https://psp-archive.github.io/emulators/DaedalusX64-z-interview.html) (2021)

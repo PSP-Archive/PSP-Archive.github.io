@@ -44,8 +44,10 @@ NES emulation is discussed [here](https://psp-archive.github.io/emulators/NES-em
 - [NesterJ AoEX](https://archive.org/details/nintendo-nester-j-ao-ex-r-3.7z) by ruka, ShimaFlareX. Last updated in 2012.
 - [NesterJ PSP for CN](https://archive.org/details/nester-j-0.3cn.-7z) by temryu. Last updated in 2008.
 - [NesterJ Plus RM](https://archive.org/details/nester-p.-7z_202106) by ruka, davex. Last updated in 2010.
+- [NesterJ [Russian]](https://archive.org/details/nester-j) by ilnur2883. In Russian. Last updated in 2012.
 - [NesterJ RX Mod](https://archive.org/details/nester-j-112-rx-mod-20160324.7z) by フェニックス. Last updated in 2016.
-- [NesterJ](https://archive.org/details/nester-j-v-1-20beta-2.7z) by ruka. Supports ad-hoc multiplayer. Last updated in 2006.
+- [NesterJ](https://archive.org/details/nester-j-v-113beta-2) by ruka. Last updated in 2010.
+- [NesterJ Adhoc](https://archive.org/details/nester-j-v-1-20beta-2.7z) by ruka. Supports ad-hoc multiplayer. Last updated in 2006.
 - [NesterJ 非官方中文](https://archive.org/details/nester-p.-7z) by tensai_wang. In Chinese. Last updated in 2011.
 - [PSPFceUltra](https://archive.org/details/pspfceultra_rls_2.7z) by HamsterBert. Last updated in 2006.
 - [Unofficial NesterJ](https://archive.org/details/uo_nj2.7z) by e (T. Kawamorita). Last updated in 2005.
@@ -172,7 +174,7 @@ Saturn emulation is discussed [here](https://psp-archive.github.io/emulators/yab
 
 ### Dreamcast
 
-⚠️ **Note**: experimental. Most games are unplayable, save some very simple titles such as ChuChu Rocket. A [compatibility list](https://psp-archive.github.io/nulldce-psp/) is available.
+⚠️ **Note**: experimental. Only supports PSP-2000 and later models. Most games are unplayable, save some very simple titles such as ChuChu Rocket. A [compatibility list](https://psp-archive.github.io/nulldce-psp/) is available. 
 
 - [nullDC-PSP](https://archive.org/details/nullDC-PSP) by drkRaziel, xiro, hlide. Last updated in 2021.
 - [VirtuaMUnstaz VMS](https://archive.org/details/vmudemo.-7z) by VirtuaMUnstaz. VMU emulator. Last updated in 2005.
@@ -290,7 +292,7 @@ WonderSwan emulation is discussed [here](https://psp-archive.github.io/emulators
 
 ### Amstrad CPC
 
-CPC is discussed [here](https://psp-archive.github.io/emulators/Wonderswan.html).
+CPC is discussed [here](https://psp-archive.github.io/emulators/Amstrad-CPC-on-PSP.html).
 
 - [CPCPSP](https://archive.org/details/cpcpsp-v-01.7z) by Nige. Last updated in 2005.
 - [Caprice32](https://archive.org/details/cpc-300750-00000) by Akop Karapetyan, DelayedQuasar. Last updated in 2019.
@@ -370,6 +372,7 @@ PC-98 emulation is discussed [here](https://psp-archive.github.io/emulators/PC98
 
 ### Misc home computers
 
+- [Pyldin 601](https://archive.org/details/pyldin601-psp-3.2rev93) by Sasha Chukov, Yura Kuznetsov. Last updated in 2007.
 - [PSPBEEB](https://archive.org/details/pspbeeb.7z) by ZX-81. BBC Micro Emulator Last updated in 2007.
 - [PSPDragon](https://archive.org/details/pspdragon.7z) by ZX-81. Dragon / Tandy Coco Emulator. Last updated in 2008.
 - [PSPSIM](https://archive.org/details/pspsim-v1.2.1-fw3x.7z) by ZX-81. SamCoupé emulator. Last updated in 2008.
@@ -388,22 +391,23 @@ There's no good way to categorize these ones, is there?
 - [FBA4PSP Sega](https://archive.org/details/sega.7z) by OopsWare, Lbicelyne. Support for Sega arcade games. Last updated in 2009.
 - [FinalBurn Alpha LB](https://archive.org/details/fba.-7z). Supports Cave games. Last updated in 2013.
 - [Irem M72](https://archive.org/details/m-72_20210910) by ＰＳＰ開発幼稚園. Supports the Irem M72 arcade board. Last updated in 2006.
-- [MVSPSP](https://archive.org/details/mvspsp-slim-2.3.5.7z) by NJ, phoe-nix. NeoGeo MVS/AES emulator. Last updated in 2018.
-- [MVSPSP](https://archive.org/details/mvspsp-theelf.-7z) by theelf. Version of the NeoGeo MVS/AES emulator. Last updated in 2014.
+- [MVSPSP](https://archive.org/details/mvspsp-slim-2.3.5.7z) by NJ. NeoGeo MVS/AES emulator. Last updated in 2007.
+- [MVSPSP](https://archive.org/details/mvspsp-theelf.-7z) by theelf. NeoGeo MVS/AES emulator. Last updated in 2014.
 - [NamcoNA](https://archive.org/details/namcoNA.7z) by ＰＳＰ開発幼稚園. Namco System NA1 / Namco System NA2 emulator. Last updated in 2006.
 - [TaitoAX](https://archive.org/details/taitoAX.7z) by ＰＳＰ開発幼稚園. Taito Asuka and Taito X System emulator. Last updated in 2006.
 - [The Simpsons Arcade](https://archive.org/details/simpsons.7z). Version of FBA4PSP modified to run The Simpsons (Konami, 1991). Last updated in 2021.
-- [Unofficial MVSPSP](https://archive.org/details/uo_mvspsp_2.3.1_1.5_kernel_mod_r5.7z) by NJ, 173210. NeoGeo MVS emulator. Last updated in 2014.
+- [Unofficial MVSPSP](https://archive.org/details/uo_mvspsp_2.3.1_1.5_kernel_mod_r5.7z) by NJ, 173210, phoe-nix. NeoGeo MVS emulator. Last updated in 2020.
 
 #### CPS 1/2/3
 
 - [CPS1 Emulator](https://archive.org/details/ccps-1.7z) by sasuke2911. Last updated in 2006.
-- 👉 **[CPS1PSP](https://archive.org/details/cps-1-psp-2.3.5.7z)** by NJ, phoe-nix. Last updated in 2018.
-- 👉 **[CPS2PSP](https://archive.org/details/cps-2-psp-slim-2.3.5.7z)** by NJ, phoe-nix. Last updated in 2018.
+- [CPS1PSP](https://archive.org/details/cps-1-psp-2.3.5.7z) by NJ. Last updated in 2007.
+- [CPS1PSP with Rewind](https://archive.org/details/nj-cps-1-psp-101zc-rewind) by NJ, davex. Last updated in 2006.
+- [CPS2PSP](https://archive.org/details/cps-2-psp-slim-2.3.5.7z) by NJ. Last updated in 2007.
 - [CPS2psp](https://archive.org/details/c-2-p-101-a-00.7z) by ＰＳＰ開発幼稚園, ＮＪ. Last updated in 2006.
 - [FBA4PSP CPS3](https://archive.org/details/cps3.7z) by OopsWare, Lbicelyne. Supports CPS1, CPS2 and CPS3 games.
-- [Unofficial CPS1PSP](https://archive.org/details/uo_cps1psp_2.3.1_1.5_kernel_mod_r5.7z) by NJ, 173210. Last updated in 2014.
-- [Unofficial CPS2PSP](https://archive.org/details/uo_cps2psp_2.3.1_1.5_kernel_mod_r5.7z) by NJ, 173210. Last updated in 2014.
+- 👉 **[Unofficial CPS1PSP](https://archive.org/details/uo_cps1psp_2.3.1_1.5_kernel_mod_r5.7z)** by NJ, 173210, phoe-nix. Last updated in 2014.
+- 👉 **[Unofficial CPS2PSP](https://archive.org/details/uo_cps2psp_2.3.1_1.5_kernel_mod_r5.7z)** by NJ, 173210, phoe-nix. Last updated in 2014.
 
 #### PSPMAME builds
 
@@ -450,14 +454,15 @@ These are all the same emulator - PSPMAME by TMK. The developer split them into 
 
 ### NeoGeo CD
 
-Half arcade, half home console. Better put it in its own category.
+NeoGeo CD emulation is discussed [here](https://psp-archive.github.io/emulators/Neo-Geo-CD-PSP.html).
 
 - [NCDZPSP](https://archive.org/details/ngcdz-theelf.7z) by theelf. Last updated in 2014.
-- [NCDZPSP](https://archive.org/details/ncdzpsp-2.3.5.7z) by NJ, phoe-nix. Last updated in 2018.
+- [NCDZPSP](https://archive.org/details/ncdzpsp-2.3.5.7z) by NJ. Last updated in 2007.
+- [NCDZPSP Adhoc](https://archive.org/details/ncdzpsp_2.2.1a_adhoc_for_3x) by NJ, AhMan. Last updated in 2007.
 - [NeoCD/PSP](https://archive.org/details/neocd.-7z). Last updated in 2005.
 - [NeoCDPSP](https://archive.org/details/neocd.7z) by yoyofr. Last updated in 2005.
 - [NeoCDPSP](https://archive.org/details/neocdpsp-091.7z) by ZeLurker, Radius, camiyu1. Last updated in 2006.
-- [Unofficial NCDZPSP](https://archive.org/details/uo_ncdzpsp_2.3.1_1.5_kernel_mod_r5.7z) by NJ, 173210. Last updated in 2014.
+- 👉 **[Unofficial NCDZPSP](https://archive.org/details/uo_ncdzpsp_2.3.1_1.5_kernel_mod_r5.7z)** by NJ, 173210, phoe-nix. Last updated in 2018.
 
 ## Not quite emulators
 
