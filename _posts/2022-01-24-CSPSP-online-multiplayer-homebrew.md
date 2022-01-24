@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSPSP"
+title: "CSPSP: the online multiplayer homebrew"
 author: "Pierre L"
 categories: games
 tags: [PSP,homebrew]
@@ -37,15 +37,17 @@ This is a VERY early version of a top down shooter based on Valve©'s Counter-St
 
 While inspired by CounterStrike, and even more by Unreal Software's CS2D, Kevin's CSPSP uses no code from either of those games. 
 
-The game was rather built on JGE++, a game engine created by James Hui and previously used for [SpaceBugz](https://archive.org/details/star-bugz-v-0.0.1.7z), a well-crafted but unambitious Space Invaders clone.
+The game was rather built on JGE++, a game engine created by James Hui and previously used for [StarBugz](https://archive.org/details/star-bugz-v-0.0.1.7z), a well-crafted but unambitious Space Invaders clone.
 
 The Summer 2006 NEO Competition was as competitive as PSP coding jams would ever get, featuring entries from giants of the scene like Shazz and 71M.
 
 At the same time, this first release of CSPSP came when the game was still in early development, so it's no surprise that it did not make it into the [top 10](https://www.neoflash.com/go/index.php/2007/06/27/neo-summer-coding-contest-2006-for-ndsgba-and-psp-announcement-and-result-44-projects/) of PSP games at the event.
 
-A more mature build of CSPSP entered the contest's next edition - in spring 2007. 
+A more mature build of CSPSP entered the contest's next edition - in spring 2007.
 
 This time, the game came in [third](https://www.neoflash.com/go/index.php/2007/06/27/neo-spring-coding-contest-2007-for-ndsgba-and-psp-announcement-a-result-52-projects/), ranked behind two puzzle games - [Hexaxis XXI](https://archive.org/details/hexaxis-xxi.-7z) and [Go!Go!Goo!](https://archive.org/details/go-go-goo-cfv-07.7z).
+
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/cspsp_121.webp)
 
 CSPSP would enter no further game jams after that. At the next edition of the NEO contest, in the Summer of 2007, Kevin decided to present a new work instead - a game called [QQ Manto](https://archive.org/details/qqmanto.7z).
 
