@@ -59,6 +59,8 @@ After creating the database, drag the folder with your ROMs onto the RomCenter w
 
 The games that appear in green are good to go. The ones in yellow require a fix. RomCenter will take care of the fixing process after selecting the appropriate option.
 
+The ROMs shown in red are not compatible with Mame4All. The only solution is to find another ROM dump of the same game.
+
 ### Settings
 
 There aren't many options to choose from in this emulator. There are no save states, and most of the settings that are available should be left at their default values.
@@ -69,13 +71,13 @@ You can adjust the aspect ratio by pressing L+R. There are four scaling options 
 
 The software scaling modes look like a wobbly mess. DIV2 is good for games that have a resolution bigger than the PSP screen.
 
-Pressing L, R and Start gets you a pause menu, from which you can exit the emulator.
+Holding L and R gets you a pause menu, from which you can exit the emulator.
 
 ### Versions of Mame4All
 
 Mame4All has been ported to PSP a number of times over the years, but TTYman's version is the only one worth trying today.
 
-The first port was in May 2006, [MAME4ALLPSP](https://archive.org/details/mame-4-allpsp.-7z_202107) by sasuke2911, and only works on firmware 1.50.
+The first port was in May 2006 - [MAME4ALLPSP](https://archive.org/details/mame-4-allpsp.-7z_202107) by sasuke2911. It only works on firmware 1.50.
 
 After that, we have [MAME4ALL-PSP](https://archive.org/details/mame-4-allpsp.-7z) by Kech, which was discontinued a month later, in June 2006.
 

@@ -470,4 +470,5 @@ NeoGeo CD emulation is discussed [here](https://psp-archive.github.io/emulators/
 - [Frotz](https://archive.org/details/frotz-psp.7z) by Norman B. Lancaster. Z-Machine interpreter. Last updated in 2009.
 - [MADrigalPSP](https://archive.org/details/madrigal-psp-v-1.0.7z) by HCF Retrocoder. Collection of Game&Watch games recreated for modern devices. Last updated in 2017.
 - [PSP IR Frotz](https://archive.org/details/pspIRFrotz.7z) by KangKengKingKong. Port of the dumb Frotz to the PSP. Works only with IR keyboards. Last updated in 2007.
+- [PSPKVM](https://archive.org/details/pspkvm.7z) by Sleepper, M@x, Anweifeng, AJ Milne. Java virtual machine. Last updated in 2011.
 - [ScummVM](https://archive.org/details/scummvm-2.2.0-psp.7z) by ScummVM Team. Application to run classic adventure games on PSP. Last updated in 2021.
