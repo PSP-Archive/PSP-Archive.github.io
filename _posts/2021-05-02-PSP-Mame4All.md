@@ -7,23 +7,23 @@ tags: [PSP,homebrew]
 image: /assets/img/snaps/2021-05-02-PSP-Mame4All.webp
 ---
 
-The MAME arcade emulator has been ported to PSP numerous times over the years. Not all ports are created equal, however, and Mame4All is one of the best.
+[PSP Mame4All](https://github.com/PSP-Archive/PSP-MAME4ALL/releases) is the portable version of MAME, the venerable PC emulator of arcade games. 
 
-This emulator targets arcade games from the early 1980s, and can play them at quite a good speed.
+This PSP version of MAME has been around since 2006, and over the years it has gained a reputation for being hard to get up and running.
+
+There are two main things to keep in mind while trying to get it to work. First, each version of MAME requires slightly different ROM dumps for each of the games. This is unlike console emulators, where any ROM of the same game can be expected to work with basically any emulator.
+
+Beyond this caveat, which applies to any MAME build, there are limits intrinsic to the PSP itself. Arcade games from the 1980s tended to be more technically demanding than contemporary console games, which means that the PSP will struggle to emulate them, even where it can play NES or Master System games without breaking a sweat.
+
+PSP Mame4All targets arcade games from the early 1980s, and can play most of them at quite a good speed.
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/sega_1983.webp)
 
-Within those tight limits, Mame4All performs just fine. But even slightly later games, like the 1985 Space Harrier, run too slow to be playable.
-
-The setup process for Mame4All isn't the most user-friendly. Just like other versions of MAME, it requires some very specific sets of ROMs. Just copying random games into the 'roms' folder will most likely yield a screen like this one:
-
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/mame4all_error.webp)
-
-These errors are fixable most of the time by using RomCenter. More on that below.
-
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/mame4all_dk.webp)
+Within those tight limits, the emulator performs just fine. But even slightly later games, like the 1985 Space Harrier, run too slow to be playable.
 
 ### Alternatives
+
+PSP Mame4All is not always the best choice to emulate arcade titles on the PSP. While the work that developers put into this project is commendable, there are several scenarios where other alternatives are preferable.
 
 For games that run on the Capcom CPS1, CPS2, NeoGeo CD and MVS, the [emulators created by NJ](https://archive.org/details/psp-homebrew-library?query=nj&and[]=subject%3A%22emulator%22) are the superior option.
 
@@ -33,21 +33,17 @@ As a rule of thumb, Mame4All is the advisable option mostly for early arcade gam
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/mame4all_tapper.webp)
 
-### History
-
-PSP Mame4All was created by [TTYman](http://ttyman.free.fr/) and is based on MAME GP2X by Franxis, itself a port of MAME 0.34. The last release from the TTYman himself was 4.9r2 Hires, back in November 2007. 
-
-The source code for version 5.1 was found by yours truly, late in 2020, on a rickety German website. It was compiled - with a lot of help from Sajattack - and distributed on Reddit. To the best of my knowledge, this version had never been circulated before.
-
-According to the documentation, turning off the graphical elements in the menus saves 1Mb of memory. Given how ugly they were, I would have gladly disabled them regardless. If you want them back, the source code is in the [PSP Archive on GitHub](https://github.com/PSP-Archive/PSP-MAME4ALL), waiting to be compiled.
-
-<video class="center" width="480" height="272" controls>
-	<source type="video/mp4" src="https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/video/2021-05-02-PSP-Mame4All.mp4">
-</video>
-
 ### Setup guide
 
-The release includes a .dat file, to be used with programs like [RomCenter](https://www.romcenter.com/) to make sure the ROMs you'll be feeding to Mame4All will match the (rather ancient) romset of the emulator. 
+As mentioned, the setup process for Mame4All isn't the most user-friendly. Just like other versions of MAME, it requires some very specific sets of ROMs - copying random games into the 'roms' folder will most likely yield a screen like this one:
+
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/mame4all_error.webp)
+
+These errors are fixable most of the time by using [RomCenter](https://www.romcenter.com/).
+
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/mame4all_dk.webp)
+
+The release includes a .dat file, to be used with programs like RomCenter (or other ROM managing apps) to make sure the ROMs you'll be feeding to Mame4All will match the (rather ancient) romset of the emulator. 
 
 Out of the commonly available romsets, MAME 2000 is the closest to Mame4All's specs. But even that one is based on a significantly more recent version of MAME - 0.37b5.
 
@@ -72,6 +68,22 @@ You can adjust the aspect ratio by pressing L+R. There are four scaling options 
 The software scaling modes look like a wobbly mess. DIV2 is good for games that have a resolution bigger than the PSP screen.
 
 Holding L and R gets you a pause menu, from which you can exit the emulator.
+
+### History of the port
+
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/mame4all_famtree.webp)
+
+PSP Mame4All was created by [TTYman](http://ttyman.free.fr/) and is based on the Dreamcast emulator [Mame4All](http://chui.dcemu.co.uk/mame4all.html), which was ported from MAME GP2X by [Franxis](https://web.archive.org/web/20060615053415/http://www.talfi.net/gp32_franxis/), which is itself a port of MAME 0.34. The last release from the TTYman himself was 4.9r2 Hires, back in November 2007. 
+
+The source code for version 5.1 was found by yours truly, late in 2020, on a rickety German website. The code base dates back to 2010, but the PSP-specific parts of the code are almost certainly even older. 
+
+The code was compiled - with a lot of help from Sajattack - and distributed on Reddit. To the best of my knowledge, this version had never been circulated before.
+
+According to the documentation, turning off the graphical elements in the menus saves 1Mb of memory. Given how ugly they were, I would have gladly disabled them regardless. If you want them back, the source code is in the [PSP Archive on GitHub](https://github.com/PSP-Archive/PSP-MAME4ALL), waiting to be compiled.
+
+<video class="center" width="480" height="272" controls>
+	<source type="video/mp4" src="https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/video/2021-05-02-PSP-Mame4All.mp4">
+</video>
 
 ### Versions of Mame4All
 
