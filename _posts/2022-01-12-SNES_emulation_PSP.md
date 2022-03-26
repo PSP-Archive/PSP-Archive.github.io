@@ -25,6 +25,12 @@ For the most part, they were not disappointed. Emulators for all sorts of system
 
 Barely two weeks after Hello World, Bifuteki released the [first working port](https://archive.org/details/snes-9-x.-7z) of Snes9x to PSP.
 
+<video class="center" width="480" height="272" controls>
+	<source type="video/mp4" src="https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/video/snesonPSP_050515.mp4">
+</video>
+
+*The video above was recorded on 15 May 2005, according to the metadata of the original file.*
+
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/bifuteki.webp)
 
 Snes9x was then one of the two major SNES emulators at the time, along with ZSNES. 
