@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "PSP Archive"
-description:	       "Page about PlayStation Portable Homebrews"
+description:	       "PlayStation Portable Homebrews"
 author:              "PSP Homebrew Discord Community"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
