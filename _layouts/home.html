@@ -6,11 +6,15 @@ title: Home
 {% for post in paginator.posts %}
 
 <article>
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
+<div style="margin-bottom: 2em">
+	  <a href="{{ site.github.url }}{{ post.url }}">
+		<div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}{{ post.image }})"{% endif %}>
+		  <h2><span>{{ post.title }}</span></h2>
+		</div>
+	  </a>	  
+	  {% if post.description %} {{ post.description }} {% else %} {{ post.excerpt }} {% endif %}
+	  <a href="{{ site.github.url }}{{ post.url }}" style="font-weight:bold">Read more...</a><br/>
+  </div>
 </article>
 
 {% endfor %}
