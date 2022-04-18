@@ -33,6 +33,48 @@ There used to be dozens of sites and webpages devoted solely to C/C++ coding and
 
 More recently, Iridescence published a series of [PSP coding tutorials](https://www.youtube.com/watch?v=35q-7ITBzSk&list=PLwIRcsl57ziPsDYCi6bgO-W9qqAwuW3Mk) on YouTube.
 
+#### Libraries
+
+Countless libraries, game engines, guides and other resources were created for making it easier to code in C/C++ on PSP. Here are some of them:
+
+- Docs for [OSLib-MOD](https://psp-archive.github.io/OSLib-MOD/). The original OldSchool Library by Brunni was widespread in the PSP homebrew scene. 
+- [NGE](https://github.com/PSP-Archive/NGE2) - a library popular in the Chinese PSP scene.
+- [DX Library Portable](https://github.com/PSP-Archive/dxlibp) - widely used by Japanese homebrew devs. A more up-to-date [Kai version](https://github.com/PSP-Archive/dxlibp-kai) also exists.
+- [LTE Game Engine](https://github.com/PSP-Archive/LTE) - an engine based on Irrlicht 1.0.
+- [ODE for LTE Game Engine](https://github.com/PSP-Archive/ODE-for-LTE) - integrate the Open Dynamics Engine.
+- [JGE++](https://github.com/PSP-Archive/JGE) - a hardware accelerated 2D game SDK for PSP.
+- [AMGLib-Plus](https://github.com/PSP-Archive/AMGLib-Plus) - 3D graphics engine.
+- [openTRI](https://github.com/PSP-Archive/openTri) - game engine.
+- [xlab](https://github.com/PSP-Archive/xlab) - game engine, used by [Battlegrounds III](https://archive.org/details/battlegrounds-3.7z).
+- [gLib2D](https://github.com/PSP-Archive/gLib2D) - lightweight 2D graphics library.
+- [Irrlicht-PSP](https://github.com/PSP-Archive/Irrlicht-PSP) - port of the Irrlicht Engine.
+- [Yeti3D](https://github.com/PSP-Archive/Yeti3D-Portable-Engine) - PSP version of the portable engine.
+- [Nehe Tutorials](https://github.com/PSP-Archive/Nehe-Tutorials) -  PSPGL tutorials by Edorul.
+- [3D PSP Tutorials](https://github.com/PSP-Archive/3D-PSP-Tutorials) by Ghoti, who also created the [Boxy II](https://archive.org/details/boxy-2.7z_202101) game.
+- [Chipmunk Physics Library](https://github.com/PSP-Archive/Chipmunk-5.3.1-for-PSP) - the most recent port is of version 5.3.1 by Gefa. Older ones are [4.1.0](https://github.com/PSP-Archive/Chipmunk-SafariAl) by SafariAl and [4.0.2](https://github.com/PSP-Archive/Chipmunk-Physics) by Mk2k.
+- [Box2D](https://github.com/PSP-Archive/Box2D) - 2D physics library.
+- [CSD Library](https://github.com/PSP-Archive/csdlibrary) - documentation in Japanese only.
+- [cal3D](https://github.com/PSP-Archive/cal3D) - skeletal-based 3D character animation library.
+- [Bullet](https://github.com/PSP-Archive/Bullet) - physics library ported by Drakon.
+- [Deflatelib](https://github.com/PSP-Archive/deflatelib) - compression/decompression library. 
+- [Velocity](https://github.com/PSP-Archive/Velocity) - library by Gabriel Anderson (ZettaBlade).
+- [OpenSSL](https://github.com/PSP-Archive/openssl) - port by Raf, creator of PSPRadio. Now outdated.
+- [PSP-SGE](https://github.com/PSP-Archive/PSP-SGE) - SDL Graphics Extension.
+- [exceptionHandler](https://github.com/PSP-Archive/exceptionHandler) - a PRX that handle exception and can be used to show useful information about a crash.
+- [System Interface Library](https://github.com/PSP-Archive/System-Interface-Library) - created by Andrew Church, the man behind the [Aquaria PSP](https://www.youtube.com/watch?v=NPnBJrxmQiw) port and the only usable build of the Yabause emulator for PSP.
+- [intraFont](https://github.com/PSP-Archive/intraFont) - a very popular bitmap font library for PSP.
+- [MElib](https://github.com/PSP-Archive/melib) - a library to use the PSP's Media Engine.
+- [FontLoader](https://github.com/PSP-Archive/FontLoader) - interface for utilising the freetype2 library.
+- [FLIB](https://github.com/PSP-Archive/FLIB) - a Truetype font processing library based on freetype2.
+- [sfxMixerTT-PSP](https://github.com/PSP-Archive/sfxMixerTT-PSP) - SFX audio mixing library.
+- [Easy Accelerated Image library](https://github.com/PSP-Archive/Easy-Accelerated-Image-Lib) - a compiled sample is available [here](https://archive.org/details/easy-accelerated-image-lib-0.2.7z).
+- [libmad](https://github.com/PSP-Archive/libmad) - MPEG audio decoder library, docs in Japanese.
+- [Celshading Tutorial](https://github.com/PSP-Archive/Celshading-tutorial) by McZonk.
+- [Raptor 3D](https://github.com/PSP-Archive/Raptor-3D) engine.
+- [DanzeffOSLib](https://github.com/PSP-Archive/DanzeffOSLib) - library for the popular on-screen keyboard by Danzel.
+- [PSP-OSK](https://github.com/PSP-Archive/PSP-OSK) - on-screen keyboard.
+- [funcLib](https://github.com/PSP-Archive/funcLib)
+
 ### Python
 
 Python interpreters for PSP have been around since all the way back in 2005, but they were never as popular as Lua. All in all, only [20-odd](https://archive.org/details/psp-homebrew-library?query=subject%3Apython) PSP apps and games have been coded in Python since then.
@@ -54,6 +96,8 @@ Not very much used so far, beyond a few coding samples.
 ### BASIC
 
 The PSP can run BASIC code thanks to [PSP Yabasic](https://archive.org/details/pspyabasic_v10a.7z). BASIC never really gained any traction on this device, but it should play homebrews coded for the official [Yabasic port for PS2](https://archive.org/details/gs_20211117192719).
+
+Another alternative for using this language on PSP is [sdlBasic](https://archive.org/details/sdlBasic.7z).
 
 ### Ruby
 
