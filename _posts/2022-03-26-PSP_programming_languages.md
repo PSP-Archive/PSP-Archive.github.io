@@ -31,19 +31,21 @@ The [MINPSPW](https://sourceforge.net/projects/minpspw/) project used to be a po
 
 There used to be dozens of sites and webpages devoted solely to C/C++ coding and tutorials for PSP, but nearly all have vanished over the years. A few surviving resources are gathered [on this page](https://github.com/PSP-Archive/docs#learning-resources).
 
-More recently, Iridescence published a series of [PSP coding tutorials](https://www.youtube.com/watch?v=35q-7ITBzSk&list=PLwIRcsl57ziPsDYCi6bgO-W9qqAwuW3Mk) on YouTube.
+More recently, Iridescence published a series of [PSP coding tutorials](https://www.youtube.com/watch?v=35q-7ITBzSk&list=PLwIRcsl57ziPsDYCi6bgO-W9qqAwuW3Mk) on YouTube. The [PSP-Dev Wiki](http://psp-dev.org/) also hosts a few resources.
 
 #### Libraries
 
-Countless libraries, game engines, guides and other resources were created for making it easier to code in C/C++ on PSP. Here are some of them:
+Countless libraries, game engines, guides and other resources were created to make it easier to code in C/C++ on PSP. Here are some of them:
 
 - Docs for [OSLib-MOD](https://psp-archive.github.io/OSLib-MOD/). The original OldSchool Library by Brunni was widespread in the PSP homebrew scene. 
 - [NGE](https://github.com/PSP-Archive/NGE2) - a library popular in the Chinese PSP scene.
 - [DX Library Portable](https://github.com/PSP-Archive/dxlibp) - widely used by Japanese homebrew devs. A more up-to-date [Kai version](https://github.com/PSP-Archive/dxlibp-kai) also exists.
-- [LTE Game Engine](https://github.com/PSP-Archive/LTE) - an engine based on Irrlicht 1.0.
-- [ODE for LTE Game Engine](https://github.com/PSP-Archive/ODE-for-LTE) - integrate the Open Dynamics Engine.
+- [ADQuake](https://github.com/st1x51/ADQuake) - engine for Quake mods by by Crow_Bar and st1x51.
+- [LTE Game Engine](https://github.com/PSP-Archive/LTE) - an engine based on Irrlicht 1.0. A demo built with this engine is available [here](https://archive.org/details/demo-21072006.7z). [Republic of Zombies](https://archive.org/details/republicof-zombies-vinicial-cfplus-en.-7z) is one game that uses this engine.
+- [ODE for LTE Game Engine](https://github.com/PSP-Archive/ODE-for-LTE) - integrates LTE with the Open Dynamics Engine.
 - [JGE++](https://github.com/PSP-Archive/JGE) - a hardware accelerated 2D game SDK for PSP.
 - [AMGLib-Plus](https://github.com/PSP-Archive/AMGLib-Plus) - 3D graphics engine.
+- [Dungeons Engine 2](https://github.com/PSP-Archive/Dungeons-Engine-2) - this engine is discussed more in detail [here](https://psp-archive.github.io/games/dungeons-3d-engine.html).
 - [openTRI](https://github.com/PSP-Archive/openTri) - game engine.
 - [xlab](https://github.com/PSP-Archive/xlab) - game engine, used by [Battlegrounds III](https://archive.org/details/battlegrounds-3.7z).
 - [gLib2D](https://github.com/PSP-Archive/gLib2D) - lightweight 2D graphics library.
@@ -58,12 +60,12 @@ Countless libraries, game engines, guides and other resources were created for m
 - [Bullet](https://github.com/PSP-Archive/Bullet) - physics library ported by Drakon.
 - [Deflatelib](https://github.com/PSP-Archive/deflatelib) - compression/decompression library. 
 - [Velocity](https://github.com/PSP-Archive/Velocity) - library by Gabriel Anderson (ZettaBlade).
-- [OpenSSL](https://github.com/PSP-Archive/openssl) - port by Raf, creator of PSPRadio. Now outdated.
+- [OpenSSL](https://github.com/PSP-Archive/openssl) - port by Raf, creator of PSPRadio. Obsolete.
 - [PSP-SGE](https://github.com/PSP-Archive/PSP-SGE) - SDL Graphics Extension.
 - [exceptionHandler](https://github.com/PSP-Archive/exceptionHandler) - a PRX that handle exception and can be used to show useful information about a crash.
 - [System Interface Library](https://github.com/PSP-Archive/System-Interface-Library) - created by Andrew Church, the man behind the [Aquaria PSP](https://www.youtube.com/watch?v=NPnBJrxmQiw) port and the only usable build of the Yabause emulator for PSP.
-- [intraFont](https://github.com/PSP-Archive/intraFont) - a very popular bitmap font library for PSP.
-- [MElib](https://github.com/PSP-Archive/melib) - a library to use the PSP's Media Engine.
+- [intraFont](https://github.com/PSP-Archive/intraFont) - a very popular bitmap font library for PSP. A compiled sample for an old version is available [here](https://archive.org/details/intrafont-test).
+- [MElib](https://github.com/IridescentRose/MElib) - a library to use the PSP's Media Engine. An earlier library with an [identical name](https://github.com/PSP-Archive/melib) was created by crazyc, author of the DOSBox port.
 - [FontLoader](https://github.com/PSP-Archive/FontLoader) - interface for utilising the freetype2 library.
 - [FLIB](https://github.com/PSP-Archive/FLIB) - a Truetype font processing library based on freetype2.
 - [sfxMixerTT-PSP](https://github.com/PSP-Archive/sfxMixerTT-PSP) - SFX audio mixing library.
@@ -119,7 +121,7 @@ There is now some (basic) support for C# coding on PSP, thanks to Matt Emsom's p
 
 ### Assembly
 
-Coding a PSP program in MIPS assembly alone is certainly a possibility, though not a popular one. The homebrews fully written in this language are no more than a handful - TyRaNiD's [Minifire](https://archive.org/details/minifire) being the best known.
+Coding a PSP program in MIPS assembly alone is certainly a possibility, though not a popular one. The homebrews fully written in this language are no more than a handful - TyRaNiD's [Minifire](https://archive.org/details/minifire) being the best known. Another example of a standalone project in assembly is Iridescence's [Hello World](https://github.com/IridescentRose/PSP-ASM-Example).
 
 Some learning resources are available, such as [the MIPS page](https://github.com/uofw/uofw/wiki/MIPS) of the uOFW project.
 
