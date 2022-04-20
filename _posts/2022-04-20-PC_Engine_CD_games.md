@@ -9,22 +9,26 @@ image: /assets/img/random/pce_inject.webp
 
 Injecting PC Engine CD games into the official emulator on PSP is not hard. Just very time-consuming.
 
-The logic behind the process has been well understood for years now. Reprep wrote [a long guide](https://wololo.net/talk/viewtopic.php?f=24&t=41526) on the topic already in 2015. I found some of his instructions to be hard to follow at times, and some of the tools he was using have become outdated or hard to find over time - hence the following post.
+The logic behind the process has been well understood for years now. Reprep wrote [a long guide](https://wololo.net/talk/viewtopic.php?f=24&t=41526) on the topic already in 2015. I found some of his instructions to be hard to follow at times, and some of the tools he was using have become outdated or difficult to find over time - hence the following post.
 
-Reprep began his guide by explaining how to convert the standard cartridge-based PC Engine games, but the new [TGInjector](https://www.reddit.com/r/PSP/comments/l0sg1e/tginjector_a_tool_to_take_advantage_of_soldier/) utility created by IncendiaryIdea makes the process so simple that no guide is necessary. 
+Reprep began his guide by explaining how to convert the standard cartridge-based PC Engine games, but the new [TGInjector utility](https://www.reddit.com/r/PSP/comments/l0sg1e/tginjector_a_tool_to_take_advantage_of_soldier/) ([backup link](https://archive.org/details/tginjector-v-1)) created by IncendiaryIdea makes the process so simple that no guide is necessary. 
 
 CD games are a different story entirely. In this case, the conversion process involves several steps in which to extract all the files contained in an official PC Engine CD game released for PSP, replace the game data and audio tracks with the target game, and put them all back into a format a PSP will understand.
 
 To carry out the conversion, we will need:
+- an official PSP release of a PC Engine CD game - I used Ys I & II (title ID: NPJJ30038) for this test,
 - the PC Engine CD game to convert,
-- an official PSP release of a PC Engine CD game - I used Ys I & II for this test,
-- the conversion files hosted here: https://archive.org/details/tginjector-v-1
+- the [PCE_py_tool and PCE_CD_tools](https://archive.org/details/pce-cd-tools) scripts,
+- Python 2.7,
+- [CDmage](https://www.videohelp.com/software/CDMage) 1.02.1 Beta (it has to be this specific version),
+- [SCEI ATRAC3plus Codec Tool](https://archive.org/details/scei-atrac-3plus-codec-tool),
+- the [bincuesplit](https://archive.org/details/bincuesplit) app.
 
 ### Step 1: decrypting
 
 Grab the PSP version of Ys I & II. The files we need for this step are `CONTENT.DAT` and `PSP-KEY.EDAT`, found inside the `NPJJ30038` folder.
 
-We will be using PCE_py_tool. Move `CONTENT.DAT` to the `encrypted` folder and `PSP-KEY.EDAT` to `keys`.
+For this step, we will be using PCE_py_tool. Move `CONTENT.DAT` to the `PCE_py_tool\encrypted` folder and `PSP-KEY.EDAT` to `PCE_py_tool\keys`.
 
 Run the `decrypt.py` script. This script requires Python 2.7 - using something like [Portable Python 2.7](https://sourceforge.net/projects/portable-python/) might be the fastest option if you don't have this older version already installed. The command-line executable is found under `Portable Python-2.7.17 x64\App\Python\python.exe`.
 
@@ -54,7 +58,7 @@ CDmage can also extract audio tracks and convert them to wav. From the frame on 
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/pce_inj_step_2-3.webp) 
 
-In the next window, make sure to select `Wave file` under the `Audio as` dropdown window.
+In the next window, make sure to select `Wave file` under the `Audio as` dropdown window. Extract the files to an easily reachable folder, rather than the default AppData\Local\Temp path.
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/pce_inj_step_2-4.webp) 
 
@@ -64,14 +68,12 @@ Having done that, we can finally... convert the audio files again, this time int
 
 `psp_at3tool.exe -e input_track_01.wav output_track_01.at3`
 
-Unless you feel like converting the files one by one, it is advisable to use a simple batch script, like:
+Unless you feel like converting the files one by one, it is advisable to move `psp_at3tool.exe` and `msvcr71.dll` to the folder containing the extracted .wav files, and use a simple batch script, like:
 
 ```
 cd /d "%~dp0"
 for /r %%i in (*.wav) do psp_at3tool.exe -e "%%~nxi" "%%~ni.at3"
 ```
-
-Assuming the batch script, `psp_at3tool.exe` and the .wav files are all in the same folder. `msvcr71.dll` should follow the `psp_at3tool` executable in the move, as it contains some libraries required to run it.
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/pce_inj_step_2-5.webp) 
 
@@ -109,7 +111,7 @@ If the game to convert has many data tracks, adding this to line 6 of `comp.py` 
 compressed = os.path.splitext(os.path.basename(fd.name))[0]
 ```
 
-and replace every instance of `compressed.bin'` with `compressed + '.bin'`.
+and replace every instance of `'compressed.bin'` with `compressed + '.bin'`.
 
 As the game I am converting does indeed have lots of data tracks, I will be using a batch script in this step as well:
 
@@ -128,7 +130,7 @@ The .iso files can now be deleted, while the newly created .bin files must be re
 
 Let's return to the `PCE_py_tool\decrypted\files` folder. Delete all of the original `.hcd`, `.at3` and `.bin` files. Replace them with the corresponding files we just created for the new game: the `.bin` from step 4, `.hcd` from step 3 and `.at3` from step 2.
 
-Run the `encrypt.py` script (again, with Python 2.7). Just like unpacking, the packing process will take a while as well.
+Run the `encrypt.py` script (again, with Python 2.7). Just like unpacking, the packing process is going to take a while.
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/pce_inj_step_5-1.webp) 
 
@@ -137,6 +139,14 @@ Once the script has completed its job, the new `CONTENT.DAT` will appear under `
 PPSSPP may not support PlayStation 1 EBOOTs, but it is able to play emulated PC Engine releases. It can act as a test bench to see if the conversion process was successful, before finally moving the files to an actual PSP.
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/valis_ppsspp.webp)
+
+### Arcade Card?
+
+Sometimes the conversion will be seemingly successful, but after starting the game this message will appear:
+
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/pce_inj_step_6-1.webp) 
+
+Reprep suggests appending `arcade,1` at the bottom of the .hcd file, but that does not do anything in my experience. Updates will follow if a solution is found.
 
 ### Credits
 
