@@ -26,9 +26,9 @@ To carry out the conversion, we will need:
 
 ### Step 1: decrypting
 
-Grab the PSP version of Ys I & II. The files we need for this step are `CONTENT.DAT` and `PSP-KEY.EDAT`, found inside the `NPJJ30038` folder.
+Grab the PSP version of Ys I & II. The game comes as an .iso, which contains the emulator's launcher and some metadata, and a folder containing the actual game files. The files we need for this step are `CONTENT.DAT` and `PSP-KEY.EDAT`, found inside the `NPJJ30038` folder.
 
-For this step, we will be using PCE_py_tool. Move `CONTENT.DAT` to the `PCE_py_tool\encrypted` folder and `PSP-KEY.EDAT` to `PCE_py_tool\keys`.
+For this step, we will be using [PCE_py_tool](https://archive.org/details/pce-cd-tools). Move `CONTENT.DAT` to the `PCE_py_tool\encrypted` folder and `PSP-KEY.EDAT` to `PCE_py_tool\keys`.
 
 Run the `decrypt.py` script. This script requires Python 2.7 - using something like [Portable Python 2.7](https://sourceforge.net/projects/portable-python/) might be the fastest option if you don't have this older version already installed. The command-line executable is found under `Portable Python-2.7.17 x64\App\Python\python.exe`.
 
@@ -44,13 +44,13 @@ Once it is done, you will find the decrypted files in the `PCE_py_tool\decrypted
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/pce_inj_step_1-2.webp) 
 
-The .at3 files are sound files, while one or more .bin files contain the game data. The .hcd file is the table of contents, listing all the files that make up the CD. These are the files we will be replacing, everything else should be left as it is.
+The .at3 files are sound tracks, while one or more .bin files contain the game data. The .hcd file is the table of contents, listing all the files that make up the CD. These are the files we will be replacing, everything else should be left as it is.
 
 ### Step 2: converting sound files
 
 Now we will be working on the game to convert. The game will most likely come in the bin/cue format. 
 
-If the CD dump came as several .bin files, they will need to be merged back together first. CDmage will handle that. Point it to the .cue file, and, making sure the disc image is highlighted on the left-hand side widow frame, select `Save as...` from the `File` menu. The default save options will work just fine.
+If the CD dump came as several .bin files, they will need to be merged back together first. [CDmage](https://www.videohelp.com/software/CDMage) will handle that. Point it to the .cue file, and, making sure the disc image is highlighted on the left-hand side widow frame, select `Save as...` from the `File` menu. The default save options will work just fine.
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/pce_inj_step_2-1.webp) 
 
@@ -64,7 +64,9 @@ In the next window, make sure to select `Wave file` under the `Audio as` dropdow
 
 The `.tao` files are the data tracks, as extracted by CDmage in a format that is not really useful to us - they can be deleted.
 
-Having done that, we can finally... convert the audio files again, this time into the ATRAC3plus format that the official PC Engine emulator will understand. `psp_at3tool.exe` will handle this stage of the process:
+Having done that, we can finally... convert the audio files again, this time into the ATRAC3plus format that the official PC Engine emulator will understand. 
+
+[psp_at3tool.exe](https://archive.org/details/scei-atrac-3plus-codec-tool) will handle this stage of the process:
 
 `psp_at3tool.exe -e input_track_01.wav output_track_01.at3`
 
@@ -83,7 +85,7 @@ We will not be needing the .wav files past this point, so they can be deleted.
 
 Once every single audio track has been converted, it is time to work on the .hcd table of contents. 
 
-`bincuesplit.exe` is what we will be using here. This app was created for a PC Engine emulator on the Wii, but it will prove useful to us as well. Point it to the *single* bin/cue files put together by CDmage, and make sure to add `hcd` to the command-line options.
+[bincuesplit.exe](https://archive.org/details/bincuesplit) is what we will be using here. This app was created for a PC Engine emulator on the Wii, but it will prove useful to us as well. Point it to the *single* bin/cue files put together by CDmage, and make sure to add `hcd` to the command-line options.
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/pce_inj_step_3-1.webp) 
 
@@ -103,7 +105,7 @@ Rename the at3 files converted in step 2 to match the new titles in the .hcd. Th
 
 Audio files are not alone in requiring conversion - data files need some work as well. It is time to go back to the .iso files created by bincuesplit in the previous step.
 
-`PCE CD tools` exists for this purpose: `comp.py` takes an .iso file as input, and spits out a `compressed.bin` file that is suitable for our needs. Again, this script will need Python 2.7 to run.
+[PCE CD tools](https://archive.org/details/pce-cd-tools) exists for this purpose: `comp.py` takes an .iso file as input, and spits out a `compressed.bin` file that is suitable for our needs. Again, this script will need Python 2.7 to run.
 
 If the game to convert has many data tracks, adding this to line 6 of `comp.py` can make the process a bit less tedious:
 
