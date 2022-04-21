@@ -51,6 +51,7 @@ Countless libraries, game engines, guides and other resources were created to ma
 - [gLib2D](https://github.com/PSP-Archive/gLib2D) - lightweight 2D graphics library.
 - [Irrlicht-PSP](https://github.com/PSP-Archive/Irrlicht-PSP) - port of the Irrlicht Engine.
 - [Yeti3D](https://github.com/PSP-Archive/Yeti3D-Portable-Engine) - PSP version of the portable engine.
+- [PSPGL](https://github.com/jsgf/pspgl) - hardware-accelerated implementation of something like OpenGL.
 - [Nehe Tutorials](https://github.com/PSP-Archive/Nehe-Tutorials) -  PSPGL tutorials by Edorul.
 - [3D PSP Tutorials](https://github.com/PSP-Archive/3D-PSP-Tutorials) by Ghoti, who also created the [Boxy II](https://archive.org/details/boxy-2.7z_202101) game.
 - [Chipmunk Physics Library](https://github.com/PSP-Archive/Chipmunk-5.3.1-for-PSP) - the most recent port is of version 5.3.1 by Gefa. Older ones are [4.1.0](https://github.com/PSP-Archive/Chipmunk-SafariAl) by SafariAl and [4.0.2](https://github.com/PSP-Archive/Chipmunk-Physics) by Mk2k.
