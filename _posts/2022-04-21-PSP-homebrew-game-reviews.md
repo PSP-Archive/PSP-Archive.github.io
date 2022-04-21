@@ -33,7 +33,7 @@ Dieses Spiel bietet eine sehr schöne Menüoberfläche, verschiedene Musiktitel 
 - Music / Sound effects: 9/10
 - Overall: 6.5/10
 
-<center>[Download](https://archive.org/details/ttr.-7z)</center>
+<center><a href="https://archive.org/details/ttr.-7z">Download</a></center>
 
 ### Legend Of Hyrule - Linken’s Quest
 
@@ -53,7 +53,7 @@ Wer kennt nicht Zelda's große Abenteuer? Dies Homebrew ist ein liebevoll gestal
 - Music / Sound effects: 7/10
 - Overall: 8.5/10	
 
-<center>[Download](https://archive.org/details/legend-of-hyrule.-7z)</center>
+<center><a href="https://archive.org/details/legend-of-hyrule.-7z">Download</a></center>
 
 ### Zorblocks
 
@@ -73,7 +73,7 @@ Dieses recht bekannte Puzzle-Spiel erhöht den Suchtfaktor PSP. Die Aufgabe ist 
 - Music / Sound effects: 7/10
 - Overall: 8/10
 
-<center>[Download](https://archive.org/details/zorblock-final-version-fw-1.5-1.0.7z)</center>
+<center><a href="https://archive.org/details/zorblock-final-version-fw-1.5-1.0.7z">Download</a></center>
 
 ### The Icarus Project (Final Version)
 
@@ -93,7 +93,7 @@ Bei diesem Puzzle-Game, mit 15 unterschiedlichen Levels, besteht die Aufgabe dar
 - Music / Sound effects: 6/10
 - Overall: 6.5/10
 
-<center>[Download](https://archive.org/details/the_icarus_project_rel1_luaplayer.7z)</center>
+<center><a href="https://archive.org/details/the_icarus_project_rel1_luaplayer.7z">Download</a></center>
 
 ### Sudoku
 
@@ -113,7 +113,7 @@ Der Klassiker auf der PSP. Dies ist eine optisch ansprechende Umsetzung des Zahl
 - Music / Sound effects: 6/10
 - Overall: 7/10
 
-<center>[Download]()</center>
+<center><a href="https://archive.org/details/ftsudoku.-7z">Download</a></center>
 
 ### Lua Tennis
 
@@ -133,7 +133,7 @@ Eine Abwandlung des bekannten Spieles Pong in Tennisoptik. Zwei Spieler können 
 - Music / Sound effects: 1/10
 - Overall: 3.5/10
 
-<center>[Download](https://archive.org/details/luatennis-v-1.1-fw-1.50.7z)</center>
+<center><a href="https://archive.org/details/luatennis-v-1.1-fw-1.50.7z">Download</a></center>
 
 ### LuaAirForce
 
@@ -153,7 +153,7 @@ Ziel des Spieles ist es, möglichst unversehrt und weit mit seinem Flugzeug zu f
 - Music / Sound effects: 0/10
 - Overall: 3/10
 
-<center>[Download](https://archive.org/details/lua-air-force.-7z)</center>
+<center><a href="https://archive.org/details/lua-air-force.-7z">Download</a></center>
 
 ### 48 Hours Pong
 
@@ -173,7 +173,7 @@ Sehr gelungener Pong-Klon, der durch seine verschiedenen Ansichten überzeugt. Z
 - Music / Sound effects: 9/10
 - Overall: 8/10
 
-<center>[Download](https://archive.org/details/48-hr-pong.-7z)</center>
+<center><a href="https://archive.org/details/48-hr-pong.-7z">Download</a></center>
 
 ### Sudoku by Chau Le
 
@@ -193,7 +193,7 @@ Sehr gutes Sudoku. Das Menü ist übersichtlich. Laden und Speichern von Spielst
 - Music / Sound effects: 9/10
 - Overall: 8.5/10
 
-<center>[Download](https://archive.org/details/sudoku-2-chau-le.-7z)</center>
+<center><a href="https://archive.org/details/sudoku-2-chau-le.-7z">Download</a></center>
 
 ### PSP Millionaire
 
@@ -213,7 +213,7 @@ Die Show auf der PSP mit sehr vielen Details und den Soundeffekten aus der Show.
 - Music / Sound effects: 8/10
 - Overall: 8/10
 
-<center>[Download](https://archive.org/details/pspmillionaire.-7z)</center>
+<center><a href="https://archive.org/details/pspmillionaire.-7z">Download</a></center>
 
 ### Luminex
 
@@ -233,7 +233,7 @@ Ein gelungener Lumines-Klon, der mit wechselnden Designs trumpft. Für Lumines-F
 - Music / Sound effects: 6/10
 - Overall: 7.5/10
 
-<center>[Download](https://archive.org/details/luminex.-7z)</center>
+<center><a href="https://archive.org/details/luminex.-7z">Download</a></center>
 
 ### K.E.T.M. (Kill Everything That Moves)
 
@@ -253,7 +253,7 @@ K.E.T.M. ist ein gehobenes Homebrew-Spiel. Es erinnert an alte Spielhallen-Klass
 - Music / Sound effects: 9/10
 - Overall: 9.5/10
 
-<center>[Download](https://archive.org/details/ketm-v-0.9.7z)</center>
+<center><a href="https://archive.org/details/ketm-v-0.9.7z">Download</a></center>
 
 ### PSP Revolution
 
@@ -273,7 +273,7 @@ Dieses Spiel lässt die Finger über die Steuerung tanzen und testet die Reaktio
 - Music / Sound effects: 8/10
 - Overall: 6.5/10
 
-<center>[Download](https://archive.org/details/pspr.-7z)</center>
+<center><a href="https://archive.org/details/pspr.-7z">Download</a></center>
 
 ### Callisto
 
@@ -293,7 +293,7 @@ Callisto ist ein Weltraum 2D-Shooter der an die Spielhalle erinnert. Sehr viele 
 - Music / Sound effects: 9/10
 - Overall: 9.5/10
 
-<center>[Download](https://archive.org/details/callisto.7z)</center>
+<center><a href="https://archive.org/details/callisto.7z">Download</a></center>
 
 ### PSPacman
 
@@ -313,7 +313,7 @@ Ein guter Pacman-Klon für die PSP, der auf alte Werte setzt. Das klassische Des
 - Music / Sound effects: 2/10
 - Overall: 4.5/10
 
-<center>[Download](https://archive.org/details/1.0-h-00143-00000)</center>
+<center><a href="https://archive.org/details/1.0-h-00143-00000">Download</a></center>
 
 ### Ceres
 
@@ -333,7 +333,7 @@ Ceres ist ein Remake des Spieles Asteroids. Das Spiel hat gute Ansätze, aber di
 - Music / Sound effects: 7/10
 - Overall: 4.5/10
 
-<center>[Download](https://archive.org/details/ceres12.7z)</center>
+<center><a href="https://archive.org/details/ceres12.7z">Download</a></center>
 
 ### Attack Of The Mutants (AOTM)
 
@@ -353,7 +353,7 @@ Similar to the old cult game Asteroids. Here you can only shoot in four directio
 - Music / Sound effects: 5/10
 - Overall: 5.5/10
 
-<center>[Download](https://archive.org/details/aotm-0-3.7z)</center>
+<center><a href="https://archive.org/details/aotm-0-3.7z">Download</a></center>
 
 ### PSP Solitaire
 
@@ -373,7 +373,7 @@ Ein Solitär-Klon, dessen Steuerung gewöhnungsbedürftig ist. Drei Schwierigkei
 - Music / Sound effects: 0/10
 - Overall: 5/10
 
-<center>[Download](https://archive.org/details/solitaire.-7z)</center>
+<center><a href="https://archive.org/details/solitaire.-7z">Download</a></center>
 
 ### PSP Spider Solitaire
 
@@ -393,7 +393,7 @@ Karten mitschleppen, wofür? Dieser Spider Solitär Klon hat drei Schwierigkeits
 - Music / Sound effects: 0/10
 - Overall: 5/10
 
-<center>[Download](https://archive.org/details/spider.-7z)</center>
+<center><a href="https://archive.org/details/spider.-7z">Download</a></center>
 
 ### Bomberman Arena
 
@@ -413,7 +413,7 @@ Netter Bomberman-Klon mit Mehrspielermodus und Kampf gegen Computergegner. Viele
 - Music / Sound effects: 5/10
 - Overall: 6.5/10
 
-<center>[Download](https://archive.org/details/bomberman-arena-v-1.0-fw-3.xx.-7z)</center>
+<center><a href="https://archive.org/details/bomberman-arena-v-1.0-fw-3.xx.-7z">Download</a></center>
 
 ### Jooleem
 
@@ -433,7 +433,7 @@ Bei diesem Puzzle können Steine gelöscht werden, wenn zwei nebeneinander liege
 - Music / Sound effects: 8/10
 - Overall: 8/10
 
-<center>[Download](https://archive.org/details/joolem-psp-fw-1.5.7z)</center>
+<center><a href="https://archive.org/details/joolem-psp-fw-1.5.7z">Download</a></center>
 
 ### Circles
 
@@ -453,7 +453,7 @@ Versuchen Sie den Kreis zu treffen, bevor er alle vier Wände berührt hat. Mit 
 - Music / Sound effects: 0/10
 - Overall: 2.5/10
 
-<center>[Download](https://archive.org/details/psp-circles.-7z)</center>
+<center><a href="https://archive.org/details/psp-circles.-7z">Download</a></center>
 
 ### McDonald's Serve 'N Go
 
@@ -473,7 +473,7 @@ Liefern Sie schnellstmöglich die Bestellung aus, bestellen Sie Essen nach oder 
 - Music / Sound effects: 0/10
 - Overall: 5/10
 
-<center>[Download](https://archive.org/details/mc-donalds-serve-n-go.-7z)</center>
+<center><a href="https://archive.org/details/mc-donalds-serve-n-go.-7z">Download</a></center>
 
 ### Trigonometry Wars
 
@@ -493,7 +493,7 @@ Ein Geometry Wars-Klon von der XBOX mit netter Grafiklösung. Die Steuerung ist 
 - Music / Sound effects: 5/10
 - Overall: 6.5/10
 
-<center>[Download](https://archive.org/details/trig-wars.-7z)</center>
+<center><a href="https://archive.org/details/trig-wars.-7z">Download</a></center>
 
 ### OTTD (Open Transport Tycoon Deluxe)
 
@@ -513,7 +513,7 @@ Für die Spielsteuerung und die Aufgaben benötigen Sie viel geduld. Das Spiel i
 - Music / Sound effects: 5/10
 - Overall: 4.5/10
 
-<center>[Download](https://archive.org/details/ottd.7z)</center>
+<center><a href="https://archive.org/details/ottd.7z">Download</a></center>
 
 ### PSPool
 
@@ -533,7 +533,7 @@ Nettes Pool-Billiard-Spiel, in dem die grafischen Elemente noch verbessert werde
 - Music / Sound effects: 2/10
 - Overall: 5/10
 
-<center>[Download](https://archive.org/details/pspool.-7z)</center>
+<center><a href="https://archive.org/details/pspool.-7z">Download</a></center>
 
 ### NetHack
 
@@ -553,7 +553,7 @@ Das Spiel überzeugt leider nicht. Es hat den Charakter eines C64-Klassikers, je
 - Music / Sound effects: 0/10
 - Overall: 2/10
 
-<center>[Download](https://archive.org/details/net-hack-psp.-7z)</center>
+<center><a href="https://archive.org/details/net-hack-psp.-7z">Download</a></center>
 
 ### PSP Monopoly
 
@@ -573,7 +573,7 @@ Optisch kann PSP Monopoly noch etwas aufholen, jedoch funktioniert das Spiel ans
 - Music / Sound effects: 2/10
 - Overall: 3.5/10
 
-<center>[Download](https://archive.org/details/psp-monopoly.-7z)</center>
+<center><a href="https://archive.org/details/psp-monopoly.-7z">Download</a></center>
 
 ### Formido
 
@@ -593,7 +593,7 @@ Bei diesem Spiel erschießen Sie aus der Vogelperspektive lästige Käfer. Sehr 
 - Music / Sound effects: 8/10
 - Overall: 7.5/10
 
-<center>[Download](https://archive.org/details/formido.7z)</center>
+<center><a href="https://archive.org/details/formido.7z">Download</a></center>
 
 ### Comando Suicida
 
@@ -613,7 +613,7 @@ Bei diesem Spiel erschießen Sie aus der Vogelperspektive lästige Käfer. Sehr 
 - Music / Sound effects: 3/10
 - Overall: 5.5/10
 
-<center>[Download](https://archive.org/details/comandos-1.5.7z)</center>
+<center><a href="https://archive.org/details/comandos-1.5.7z">Download</a></center>
 
 ### Jazz jack rabbit
 
@@ -633,7 +633,7 @@ Sehr nettes Jump’N’Run Spiel. Leider wird die Shareware der Windows Version 
 - Music / Sound effects: 5/10
 - Overall: 6/10
 
-<center>[Download](https://archive.org/details/jazz3xx.7z)</center>
+<center><a href="https://archive.org/details/jazz3xx.7z">Download</a></center>
 
 ### Biohazard
 
@@ -653,7 +653,7 @@ An Resident Evil angelehnter Zombie-Shooter. Sehr ausgewogenes Spiel, welches zw
 - Music / Sound effects: 8/10
 - Overall: 8/10
 
-<center>[Download](https://archive.org/details/biohazard-psp-en.-7z)</center>
+<center><a href="https://archive.org/details/biohazard-psp-en.-7z">Download</a></center>
 
 ### PSPTris
 
@@ -673,7 +673,7 @@ Dieser Tetris-Klon bringt mit dem Design und aufgepeppten Sound Leben in das alt
 - Music / Sound effects: 7/10
 - Overall: 8.5/10
 
-<center>[Download](https://archive.org/details/psptris-tfc-version.-7z)</center>
+<center><a href="https://archive.org/details/psptris-tfc-version.-7z">Download</a></center>
 
 ### Ghost in the Matrix
 
@@ -693,7 +693,7 @@ Angelehnt an den Kultfilm „The Matrix“ besticht dieses Spiel mit dem berühm
 - Music / Sound effects: 5/10
 - Overall: 5.5/10
 
-<center>[Download](https://archive.org/details/ghost-in-the-matrix.-7z)</center>
+<center><a href="https://archive.org/details/ghost-in-the-matrix.-7z">Download</a></center>
 
 ### Deal or No Deal
 
@@ -713,7 +713,7 @@ Die Fernsehshow auf der PSP. Wählen Sie aus einen von 26 Koffern und ersoccen S
 - Music / Sound effects: 5/10
 - Overall: 6.5/10
 
-<center>[Download](https://archive.org/details/scedealnodeal.-7z)</center>
+<center><a href="https://archive.org/details/scedealnodeal.-7z">Download</a></center>
 
 ### PSP Invaders
 
@@ -733,7 +733,7 @@ Dieser grafisch ansprechende Space Invaders-Klon vermittelt rundum ein professio
 - Music / Sound effects: 7/10
 - Overall: 7.5/10
 
-<center>[Download](https://archive.org/details/pspinvaders.-7z)</center>
+<center><a href="https://archive.org/details/pspinvaders.-7z">Download</a></center>
 
 ### Sonic Battle Arena
 
@@ -753,7 +753,7 @@ Ein Kampfspiel, in dem sich die Charaktere vom bekannten Spiel Sonic gegenübers
 - Music / Sound effects: 5/10
 - Overall: 4.5/10
 
-<center>[Download](https://archive.org/details/sba.-7z)</center>
+<center><a href="https://archive.org/details/sba.-7z">Download</a></center>
 
 ### Metal Blob Solid
 
@@ -773,7 +773,7 @@ Jump’N’Run Spiel mit gelben Blobs. Befreien Sie die anderen Blobs und kämpf
 - Music / Sound effects: 4/10
 - Overall: 4.5/10
 
-<center>[Download](https://archive.org/details/blob.7z)</center>
+<center><a href="https://archive.org/details/blob.7z">Download</a></center>
 
 ### Chao Garden
 
@@ -793,7 +793,7 @@ Dieser Chao Garden-Klon hat die gängigen Funktionen und die wohl wichtigste: Sp
 - Music / Sound effects: 5/10
 - Overall: 5.5/10
 
-<center>[Download](https://archive.org/details/chao-garden.-7z)</center>
+<center><a href="https://archive.org/details/chao-garden.-7z">Download</a></center>
 
 ### Secret Mario Chronicles
 
@@ -813,7 +813,7 @@ Ein Mario Klon mit guten Ansätzen, jedoch ist die Steuerung eher nachteilig und
 - Music / Sound effects: 3/10
 - Overall: 4/10
 
-<center>[Download](https://archive.org/details/smc.-7z)</center>
+<center><a href="https://archive.org/details/smc.-7z">Download</a></center>
 
 ### Stardust
 
@@ -833,7 +833,7 @@ Weichen Sie den anfliegenden Kästen aus, aber treffen Sie die angegebenen Käst
 - Music / Sound effects: 0/10
 - Overall: 2.5/10
 
-<center>[Download](https://archive.org/details/sdust.7z)</center>
+<center><a href="https://archive.org/details/sdust.7z">Download</a></center>
 
 ### Dr. Mario
 
@@ -853,7 +853,7 @@ Der Klassiker erscheint im Originaldesign auf der PSP. Bekämpfen Sie die Viren 
 - Music / Sound effects: 5/10
 - Overall: 7/10
 
-<center>[Download](https://archive.org/details/dr-mariov-0-3.7z)</center>
+<center><a href="https://archive.org/details/dr-mariov-0-3.7z">Download</a></center>
 
 ### PSP Minesweeper
 
@@ -873,7 +873,7 @@ Ein gelungener Minesweeper-Klon. Im Minenfeld zeigen die Ziffern, wie viele Mine
 - Music / Sound effects: 0/10
 - Overall: 4/10
 
-<center>[Download](https://archive.org/details/minesweeper.7z)</center>
+<center><a href="https://archive.org/details/minesweeper.7z">Download</a></center>
 
 ### Polygon
 
@@ -893,7 +893,7 @@ Ein Klon des alten Spieles BeJeweled, welcher gut gelungen ist. Drei verschieden
 - Music / Sound effects: 5/10
 - Overall: 6.5/10
 
-<center>[Download](https://archive.org/details/polygon.-7z)</center>
+<center><a href="https://archive.org/details/polygon.-7z">Download</a></center>
 
 ### Super Turbo Turkey Puncher
 
@@ -913,7 +913,7 @@ Der Doom Turkey Puncher lässt Aggressionen auf der PSP verarbeiten. Der Spaß i
 - Music / Sound effects: 5/10
 - Overall: 4.5/10
 
-<center>[Download](https://archive.org/details/sttp3.7z)</center>
+<center><a href="https://archive.org/details/sttp3.7z">Download</a></center>
 
 ### Noiz2SA
 
@@ -933,7 +933,7 @@ Dieser Weltraum-Shooter vermittelt durch das „hochkant spielen“ mit der PSP 
 - Music / Sound effects: 7/10
 - Overall: 7.5/10
 
-<center>[Download](https://archive.org/details/noiz-2-sa.-7z)</center>
+<center><a href="https://archive.org/details/noiz-2-sa.-7z">Download</a></center>
 
 ### BreakOutPSP
 
@@ -953,7 +953,7 @@ Dieser Breakout/Arkanoid-Klon steckt noch in den Kinderschuhen. Allerdings sind 
 - Music / Sound effects: 2/10
 - Overall: 3/10
 
-<center>[Download](https://archive.org/details/breakout-pspv-0.1.7z)</center>
+<center><a href="https://archive.org/details/breakout-pspv-0.1.7z">Download</a></center>
 
 ### Beats Of Rage
 
@@ -973,7 +973,7 @@ Ein Klassiker der hochwertig auf der PSP erscheint. Für dieses Spiel wird der g
 - Music / Sound effects: 9/10
 - Overall: 9.5/10
 
-<center>[Download](https://archive.org/details/open-bor.-7z_202102)</center>
+<center><a href="https://archive.org/details/open-bor.-7z_202102">Download</a></center>
 
 ### NORT
 
@@ -993,7 +993,7 @@ Ein Tron-Klon, der allerdings nur mit zwei Spielern gespielt werden kann. Es feh
 - Music / Sound effects: 2/10
 - Overall: 3/10
 
-<center>[Download](https://archive.org/details/nort.-7z)</center>
+<center><a href="https://archive.org/details/nort.-7z">Download</a></center>
 
 ### SuperTux
 
@@ -1013,7 +1013,7 @@ Das bekannte SuperTux, angelehnt an die Super Mario Reihe. Das Spiel ist optisch
 - Music / Sound effects: 9/10
 - Overall: 9.5/10
 
-<center>[Download](https://archive.org/details/supertux.7z)</center>
+<center><a href="https://archive.org/details/supertux.7z">Download</a></center>
 
 ### Vexed
 
@@ -1033,7 +1033,7 @@ Ein weiterer Puzzle-Klassiker. Entfernen Sie die gleichen Steine um ein Level au
 - Music / Sound effects: 5/10
 - Overall: 6.5/10
 
-<center>[Download](https://archive.org/details/vexed.7z)</center>
+<center><a href="https://archive.org/details/vexed.7z">Download</a></center>
 
 ### Super Mario Milestone II
 
@@ -1053,7 +1053,7 @@ Toller Marion-Klon basierend auf SuperTux. Steuerung, Grafik und Musik sind hier
 - Music / Sound effects: 9/10
 - Overall: 9.5/10
 
-<center>[Download](https://archive.org/details/smm-2.7z)</center>
+<center><a href="https://archive.org/details/smm-2.7z">Download</a></center>
 
 ### Yahtzee
 
@@ -1072,7 +1072,7 @@ Das Würfelspiel auf der PSP. Spielen Sie mit bis zu sechs Gegnern gegeneinander
 - Music / Sound effects: 1/10
 - Overall: 4.5/10
 
-<center>[Download](https://archive.org/details/yahtzee-v1.7z)</center>
+<center><a href="https://archive.org/details/yahtzee-v1.7z">Download</a></center>
 
 ### PSP Air Hockey
 
@@ -1092,7 +1092,7 @@ Ein Klon des Spielhallenklassikers Air Hockey. Das Spiel hat verschiedene Musikt
 - Music / Sound effects: 9/10
 - Overall: 7.5/10
 
-<center>[Download](https://archive.org/details/marvin-hockey.-7z)</center>
+<center><a href="https://archive.org/details/marvin-hockey.-7z">Download</a></center>
 
 ### Rise Of The Triad
 
@@ -1112,7 +1112,7 @@ Dieser 3D-Shooter, welcher als Shareware zum testen zur Verfügung steht oder au
 - Music / Sound effects: 7/10
 - Overall: 7.5/10
 
-<center>[Download](https://archive.org/details/rise-of-the-triad-psp-v-1.01.7z)</center>
+<center><a href="https://archive.org/details/rise-of-the-triad-psp-v-1.01.7z">Download</a></center>
 
 ### rRootage
 
@@ -1132,7 +1132,7 @@ Optisch ansprechender Weltraumshooter. Erinnert stark an das schon präsentierte
 - Music / Sound effects: 7/10
 - Overall: 7.5/10
 
-<center>[Download](https://archive.org/details/rRootage.7z)</center>
+<center><a href="https://archive.org/details/rRootage.7z">Download</a></center>
 
 ### Super Mario Bros Iceland
 
@@ -1152,7 +1152,7 @@ Toller Marion-Klon basierend auf SuperTux im Eiszeit-Design. Steuerung, Grafik u
 - Music / Sound effects: 9/10
 - Overall: 9.5/10
 
-<center>[Download](https://archive.org/details/super-mario-iceland-milestone-1-smbice.-7z)</center>
+<center><a href="https://archive.org/details/super-mario-iceland-milestone-1-smbice.-7z">Download</a></center>
 
 ### Reverzi
 
@@ -1172,7 +1172,7 @@ Ein starker Reversi-Klon. Der Computer-Gegner hat es in sich und kann auf drei S
 - Music / Sound effects: 1/10
 - Overall: 4.5/10
 
-<center>[Download](https://archive.org/details/reverzi.7z)</center>
+<center><a href="https://archive.org/details/reverzi.7z">Download</a></center>
 
 ### Arkanoid
 
@@ -1192,7 +1192,7 @@ Dieser gelungene Breakout/Arkanoid-Klon wird Sie begeistern. Er überzeugt durch
 - Music / Sound effects: 7/10
 - Overall: 4.5/10
 
-<center>[Download](https://archive.org/details/arkanoid.-7z)</center>
+<center><a href="https://archive.org/details/arkanoid.-7z">Download</a></center>
 
 ### Super Mini Halo
 
@@ -1212,7 +1212,7 @@ Ein vergleichbares Spiel zu SuperMario, nur dass man hier auf der kompletten Kar
 - Music / Sound effects: 5/10
 - Overall: 5.5/10
 
-<center>[Download](https://archive.org/details/smh.-7z_202103)</center>
+<center><a href="https://archive.org/details/smh.-7z_202103">Download</a></center>
 
 ### Tiff Penguin Scramble
 
@@ -1232,7 +1232,7 @@ Fliegen Sie mit dem Pinguin durch eine Höhlenlandschaft ohne anzuecken. Diese G
 - Music / Sound effects: 0/10
 - Overall: 2.5/10
 
-<center>[Download](https://archive.org/details/penguin.7z)</center>
+<center><a href="https://archive.org/details/penguin.7z">Download</a></center>
 
 ### Solitaire Mahjongg
 
@@ -1252,7 +1252,7 @@ Sehr guter Mahjongg-Klon. Decken Sie gleichartige Steine auf, aber achten Sie au
 - Music / Sound effects: 0/10
 - Overall: 4/10
 
-<center>[Download](https://archive.org/details/solitaire_mahjongg_v1.0.7z)</center>
+<center><a href="https://archive.org/details/solitaire_mahjongg_v1.0.7z">Download</a></center>
 
 ### PSPiCross
 
@@ -1272,7 +1272,7 @@ Die Zahlen zeigen zusammenhängende Fehler in einer Zeile an. Ist das Rätsel ge
 - Music / Sound effects: 3/10
 - Overall: 7.5/10
 
-<center>[Download](https://archive.org/details/pspicross-02.7z)</center>
+<center><a href="https://archive.org/details/pspicross-02.7z">Download</a></center>
 
 ### Quake
 
@@ -1292,8 +1292,6 @@ Das Kultspiel wird bei Freunden von Quake nicht lange auf der PSP fehlen. Der 3D
 - Music / Sound effects: 5/10
 - Overall: 7.5/10
 
-<center>[Download]()</center>
-
 ### Mario don’t drop the PSP or else…
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/pspalmanac/mariodontdrop.webp)
@@ -1312,7 +1310,7 @@ Fangen Sie die herunterfallenden PSPs auf. Recht simpel und daher sehr kurzer Sp
 - Music / Sound effects: 2/10
 - Overall: 3/10
 
-<center>[Download](https://archive.org/details/mddp_v3.5.7z)</center>
+<center><a href="https://archive.org/details/mddp_v3.5.7z">Download</a></center>
 
 ### Turrican PSP
 
@@ -1332,7 +1330,7 @@ Das alte Spiel Turrican als Homebrew für die PSP. Es befindet sich noch in Entw
 - Music / Sound effects: 9/10
 - Overall: 9.5/10
 
-<center>[Download](https://archive.org/details/turrican.7z)</center>
+<center><a href="https://archive.org/details/turrican.7z">Download</a></center>
 
 ### Laserix 2
 
@@ -1352,7 +1350,7 @@ Leiten Sie durch Spiegel und andere Hilfsmittel den Laserstrahl auf die Diamante
 - Music / Sound effects: 7/10
 - Overall: 7.5/10
 
-<center>[Download](https://archive.org/details/laserix-2-pge.-7z)</center>
+<center><a href="https://archive.org/details/laserix-2-pge.-7z">Download</a></center>
 
 ### Galuaxian
 
@@ -1372,7 +1370,7 @@ Dieses Spiel tendiert dazu ein Invaders-Klon zu sein, ist aber durch die grafisc
 - Music / Sound effects: 2/10
 - Overall: 4.5/10
 
-<center>[Download](https://archive.org/details/galuaxian.-7z)</center>
+<center><a href="https://archive.org/details/galuaxian.-7z">Download</a></center>
 
 ### DuckHunt
 
@@ -1392,7 +1390,7 @@ Angelehnt an das Moorhuhn-Spiel wird hier die Entenjagd eröffnet. Schießen Sie
 - Music / Sound effects: 0/10
 - Overall: 2.5/10
 
-<center>[Download]()</center>
+<center><a href="">Download</a></center>
 
 ### Blork & Destroy
 
@@ -1412,7 +1410,7 @@ Ein Ballerspiel im Comicdesign. Ziel ist es, die merkwürdigen Monster abzuschie
 - Music / Sound effects: 5/10
 - Overall: 5.5/10
 
-<center>[Download](https://archive.org/details/banddv3.7z)</center>
+<center><a href="https://archive.org/details/banddv3.7z">Download</a></center>
 
 ### Frogger
 
@@ -1432,7 +1430,7 @@ Laufen Sie mit dem Frosch durch den Straßenverkehr und sammeln Sie auf der gege
 - Music / Sound effects: 0/10
 - Overall: 3/10
 
-<center>[Download](https://archive.org/details/frogger.-7z)</center>
+<center><a href="https://archive.org/details/frogger.-7z">Download</a></center>
 
 ### Abombniball PSP
 
@@ -1452,7 +1450,7 @@ Entfernen Sie alle blinkenden Ziele, indem Sie über Sie nacheinander rollen, ab
 - Music / Sound effects: 5/10
 - Overall: 5/10
 
-<center>[Download](https://archive.org/details/abombniballpspv2.7z)</center>
+<center><a href="https://archive.org/details/abombniballpspv2.7z">Download</a></center>
 
 ### Lua Icy Tower
 
@@ -1472,7 +1470,7 @@ Dieser Klon des Spiel Icy Tower vom PSPsource-Mitglied fredddy wurde für die LU
 - Music / Sound effects: 5/10
 - Overall: 6.5/10
 
-<center>[Download](https://archive.org/details/lua-icy-tower.-7z)</center>
+<center><a href="https://archive.org/details/lua-icy-tower.-7z">Download</a></center>
 
 ### SnakeSP
 
@@ -1492,4 +1490,4 @@ Ein Snake-Klon der besonderen Art. Der Wurm gleitet hier in allen Richtungen üb
 - Music / Sound effects: 5/10
 - Overall: 6.5/10
 
-<center>[Download](https://archive.org/details/snake.7z)</center>
+<center><a href="https://archive.org/details/snake.7z">Download</a></center>
