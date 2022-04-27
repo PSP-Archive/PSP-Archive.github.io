@@ -138,7 +138,7 @@ GBA emulation is discussed [here](https://psp-archive.github.io/emulators/GBA-em
 - [MMSPlus](https://archive.org/details/mmsplus.-7z) by Florian Brönnimann (Brunni). Last updated in 2006.
 - [PSPMaster](https://archive.org/details/pspm.-7z) by [Bo]Trops. Last updated in 2006.
 - [SMS PSP](https://archive.org/details/sms-psp-v-0.3.7z) by Yoshihiro. Last updated in 2005.
-- 👉 **[SMS Plus PSP](https://archive.org/details/smsplus-1.3.1-1.0.7z)** by Akop Karapetyan. Also supports SG-1000 games. Last updated in 2010.
+- [SMS Plus PSP](https://archive.org/details/smsplus-1.3.1-1.0.7z) by Akop Karapetyan. Also supports SG-1000 games. Last updated in 2010.
 - [SMS Plus PSP](https://archive.org/details/smsplus.-7z_202107) by theelf. Last updated in 2015.
 - [SMS Plus PSP Adhoc](https://archive.org/details/smsplusadhoc.7z) by Akop Karapetyan. With experimental ad-hoc support. Last updated in 2008.
 - [SMS Plus PSP [Japanese]](https://archive.org/details/smsppsp_jp.7z) by KrK. In Japanese. Last updated in 2015.
