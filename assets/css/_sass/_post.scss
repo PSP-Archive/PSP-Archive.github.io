@@ -12,16 +12,16 @@
   color: #9a9a9a;
   font-size:0.8rem;
 }
+/* added 2022-06-24   */
+.featured-image {  
+  max-height: 300px;
+  overflow: hidden;
+}
 .featured-image img {
   align: middle;
   margin: 5px auto 25px;
   display: block;
   max-width: 100%;
-}
-/* added 2022-06-24   */
-.featured-image div {  
-  max-height: 300px;
-  overflow: hidden;
 }
 @media (max-width: $container-width) {
   .page-content {
