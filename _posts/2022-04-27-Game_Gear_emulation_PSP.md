@@ -111,7 +111,7 @@ The overlay is not too obtrusive in this case, and it can be turned off in the o
 
 A good amount of scaling options are on offer, and a full-speed game of OutRun can be played at 222 MHz.
 
-### SMSPlus by Chris Swindle. Last updated in 2005.
+### SMSPlus by Chris Swindle
 
 [SMSPlus](https://archive.org/details/smsplus.-7z) is another early Game Gear emulation that has not been updated since 2005. And for its time, it is not bad at all. 
 

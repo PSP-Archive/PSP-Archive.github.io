@@ -39,6 +39,7 @@ NES emulation is discussed [here](https://psp-archive.github.io/emulators/NES-em
 - [Famicontest [ふぁみこんえみゅてすと]](https://archive.org/details/famicontest031.7z) by Binboukamisami. Last updated in 2005.
 - [InfoNES](https://archive.org/details/info-nes-r-03.7z) by TMK. Last updated in 2005.
 - [Little John NES](https://archive.org/details/lj-nes-psp.7z) by Tinnus. Last updated in 2007.
+- [Mednafen PSP](https://archive.org/details/mednafenPSP) by Robert Szkutak. Last updated in 2011.
 - [NES](https://archive.org/details/nes-05.7z) by REi. Last updated in 2005.
 - [NesterJ 3D](https://archive.org/details/nester-j-3-d-a.-7z). Supports 3D games, such as Famicom Grand Prix II: 3D Hot Rally. Last updated in 2011.
 - [NesterJ AoEX](https://archive.org/details/nintendo-nester-j-ao-ex-r-3.7z) by ruka, ShimaFlareX. Last updated in 2012.
@@ -82,10 +83,12 @@ SNES emulation is discussed [here](https://psp-archive.github.io/emulators/SNES_
 
 Game Boy emulation is discussed [here](https://psp-archive.github.io/emulators/gameboy-emulation.html).
 
+- [FunkyBoy](https://archive.org/details/funky-boy-psp) by Michel Kremer. Last updated in 2022.
 - [Gambatte PSP SDL](https://archive.org/details/gambatte-psp-sdl). Last updated in 2021.
 - [GeMP - Gameboy Emulator Media Player (Homer's RIN)](https://archive.org/details/ge-mp.-7z) by Homer, Atomos. Last updated in 2006.
 - 👉 **[MasterBoy](https://archive.org/details/masterboy.-7z)** by Florian Brönnimann (Brunni). Last updated in 2007.
 - [MasterBoy](https://archive.org/details/masterboy-theelf.7z) by theelf. Last updated in 2015.
+- [Mednafen PSP](https://archive.org/details/mednafenPSP) by Robert Szkutak. Last updated in 2011.
 - [PSP RIN](https://archive.org/details/rin-1-32-rm.-7z) by Mirakichi, mbarczak. With rewind support. Last updated in 2019.
 - [PSP-gnuboy](https://archive.org/details/pspgnuboy_rls.7z) by HamsterBert. Last updated in 2006.
 - [PlutoBoy](https://archive.org/details/plutoboy.-7z) by Ross Meikleham. Last updated in 2021.
@@ -99,15 +102,15 @@ The Gambatte core on RetroArch is also a good option for the titles MasterBoy ca
 
 ### Virtual Boy
 
-⚠️ **Note**: proof of concept. Unplayable, as controls were never implemented.
-
-- [RedDragon](https://archive.org/details/reddragon20071019.7z) by SofiyaCat. Last updated in 2007.
+- [Mednafen PSP](https://archive.org/details/mednafenPSP) by Robert Szkutak. Very slow, but works. Last updated in 2011.
+- [RedDragon](https://archive.org/details/reddragon20071019.7z) by SofiyaCat. Proof of concept. Unplayable, as controls were never implemented. Last updated in 2007.
 
 ### GameBoy Advance
 
 GBA emulation is discussed [here](https://psp-archive.github.io/emulators/GBA-emulators-PSP.html).
 
 - [GBA emulator](https://archive.org/details/pspgba.-7z) by Miemt11. Last updated in 2006.
+- [Mednafen PSP](https://archive.org/details/mednafenPSP) by Robert Szkutak. Last updated in 2011.
 - [PSPGBA](https://archive.org/details/pspgba-v-1.2.7z) by psp298, Slasher. Last updated in 2006.
 - [PSPVBA](https://archive.org/details/pspvba.7z) by ZX-81. Last updated in 2006.
 - [TempGBA](https://archive.org/details/temp-gba.-7z_202102). Last updated in 2013.
@@ -135,6 +138,7 @@ GBA emulation is discussed [here](https://psp-archive.github.io/emulators/GBA-em
 
 - [EmuSMS](https://archive.org/details/emusms10.7z) by Consolius. Last updated in 2006.
 - [MasterBoy](https://archive.org/details/masterboy.-7z) by Florian Brönnimann (Brunni). Last updated in 2007.
+- [Mednafen PSP](https://archive.org/details/mednafenPSP) by Robert Szkutak. Last updated in 2011.
 - [MMSPlus](https://archive.org/details/mmsplus.-7z) by Florian Brönnimann (Brunni). Last updated in 2006.
 - [PSPMaster](https://archive.org/details/pspm.-7z) by [Bo]Trops. Last updated in 2006.
 - [SMS PSP](https://archive.org/details/sms-psp-v-0.3.7z) by Yoshihiro. Last updated in 2005.
@@ -148,15 +152,18 @@ GBA emulation is discussed [here](https://psp-archive.github.io/emulators/GBA-em
 ### Genesis / MegaDrive
 
 - [DGEN](https://archive.org/details/dgen-170-lite.-7z) by Syn-k. Last updated in 2006.
+- [DGEN Lite](https://archive.org/details/dgen-170-lite) by Takka. Last updated in 2007.
 - [DGEN RX](https://archive.org/details/dgen-170-rx.-7z) by syn-k, 猫山猫宗. Last updated in 2011.
 - [DGEN [Chinese]](https://archive.org/details/dgen-170-cn-plus.-7z) by tensai_wang. Chinese-language emulator. Last updated in 2010.
 - [Generator PSP](https://archive.org/details/genpsp0_01_11.7z) by Hotoke (仏様氏), PSP Wiki. Last updated in 2005.
+- [Mednafen PSP](https://archive.org/details/mednafenPSP) by Robert Szkutak. Last updated in 2011.
 - [Megadrive](https://archive.org/details/mdp-02.7z) by Osakana. Last updated in 2005.
 - [PSPGenesis](https://archive.org/details/pspgenesis.-7z) by Sougen. Last updated in 2005.
 - [PSPGenesis [Chinese]](https://archive.org/details/genesis-0.18c.-7z). Interface in Chinese. Last updated in 2005.
 - [PSPadrive](https://archive.org/details/pspadrive.7z) by HamsterBert. Last updated in 2006.
 - [Pico-drive](https://archive.org/details/picodrivea14.7z) by ＰＳＰ開発幼稚園. Last updated in 2006.
 - [PicoDrive](https://archive.org/details/picodrive-1.92.3.7z) by Robson Alcantara. Some support for Sega CD / Mega CD. Last updated in 2018.
+- [PicoDrive](https://archive.org/details/pico-drive) by irixxxx. Last updated in 2021.
 - 👉 **[PicoDrive](https://archive.org/details/pico-drive-psp-151b.-7z)** by Notaz. Last updated in 2008.
 - [PicoDrive [Russian]](https://archive.org/details/pico-drive-rus.-7z) by Re-Education. In Russian.
 - [PicoDrive 汉化版](https://archive.org/details/pico-drive-cn-bin.-7z) by tensai_wang. In Chinese. Last updated in 2010.
@@ -181,10 +188,11 @@ Saturn emulation is discussed [here](https://psp-archive.github.io/emulators/yab
 
 ### Game Gear
 
-Nearly all Sega Master System emulators also support Game Gear games.
+Game Gear emulation is discussed [here](https://psp-archive.github.io/emulators/Game_Gear_emulation_PSP.html). Nearly all Sega Master System emulators also support Game Gear games.
 
 - [EmuGG](https://archive.org/details/emugg10.7z) by Consolius. Last updated in 2006.
 - [MasterBoy](https://archive.org/details/masterboy.-7z) by Florian Brönnimann (Brunni). Last updated in 2007.
+- [Mednafen PSP](https://archive.org/details/mednafenPSP) by Robert Szkutak. Last updated in 2011.
 - [e[mulator]](https://archive.org/details/emulator_082f.7z) by e (T. Kawamorita). Last updated in 2006.
 
 ## Atari
@@ -195,7 +203,8 @@ Nearly all Sega Master System emulators also support Game Gear games.
 - [Jum52](https://archive.org/details/jum52_11_PSP.7z) by James Higgs. Atari 5200 emulator. Last updated in 2010.
 - [PJag](https://archive.org/details/atari-jaguar-emulator.-7z) by Plynx. Atari Jaguar emulator. Last updated in 2006.
 - [PSP2600](https://archive.org/details/psp2600.7z) by ZX-81. Atari 2600 emulator. Last updated in 2009.
-- [PSPAtari](https://archive.org/details/pspatari.7z) by ZX-81. Atari 800/130/5200 Emulator. Last updated in 2008.
+- [PSPAtari](https://archive.org/details/pspatari.7z) by ZX-81. Atari 800/130/5200 emulator. Last updated in 2008.
+- [Stella](https://archive.org/details/stella_bin_20060106) by David Voswinkel (optixx). Atari 2600 emulator. Last updated in 2006.
 - [Stella PSP](https://archive.org/details/stella-pspv-0.2.7z) by Alysa Habraken (Aenea). Atari 2600 VCS emulator. Last updated in 2005.
 
 ### Atari 7800
@@ -211,6 +220,7 @@ Lynx emulation is discussed [here](https://psp-archive.github.io/emulators/Atari
 
 - [HANDY-PSP](https://archive.org/details/handy-psp-001.7z) by EXCEED. Last updated in 2005.
 - [Handy PSP](https://archive.org/details/handypsp.7z) by Akop Karapetyan. Last updated in 2007.
+- [Mednafen PSP](https://archive.org/details/mednafenPSP) by Robert Szkutak. Last updated in 2011.
 - 👉 **[PLynx](https://archive.org/details/plynx-v-09.7z)** by PLynx. Last updated in 2006.
 - [e[mulator]](https://archive.org/details/emulator_082f.7z) by e (T. Kawamorita). Last updated in 2006.
 
@@ -235,9 +245,10 @@ Lynx emulation is discussed [here](https://psp-archive.github.io/emulators/Atari
 
 ### PC Engine
 
-PC Engine emulation is discussed [here](https://psp-archive.github.io/emulators/PC_Engine.html).
+PC Engine emulation is discussed [here](https://psp-archive.github.io/emulators/PC_Engine.html). Officially released PC Engine games can be hacked to play other games as well - [see article](https://psp-archive.github.io/emulators/PC_Engine_CD_games.html).
 
 - [HuE](https://archive.org/details/hu-epsp-070.7z) by e (T. Kawamorita). Last updated in 2005.
+- [Mednafen PSP](https://archive.org/details/mednafenPSP) by Robert Szkutak. Last updated in 2011.
 - [PCE](https://archive.org/details/pcep-083-d-6.7z) by osakana, 汁ダーク. Last updated in 2012.
 - 👉 **[PSPHUGO](https://archive.org/details/psphugo.7z)** by ZX-81. Last updated in 2009.
 - [e[mulator]](https://archive.org/details/emulator_082f.7z) by e (T. Kawamorita). Last updated in 2006.
@@ -265,6 +276,7 @@ Vectrex emulation is discussed [here](https://psp-archive.github.io/emulators/Ve
 
 NGP emulation is discussed [here](https://psp-archive.github.io/emulators/NeoGeo-pocket-emulation.html).
 
+- [Mednafen PSP](https://archive.org/details/mednafenPSP) by Robert Szkutak. Last updated in 2011.
 - [NeoPop PSP](https://archive.org/details/neopoppsp.7z) by Akop Karapetyan. Last updated in 2007.
 - [RACE! PSP](https://archive.org/details/race.-7z) by theelf. Last updated in 2015.
 - 👉 **[RACE! PSP](https://archive.org/details/race-2.16-1.0.7z)** by Akop Karapetyan. Last updated in 2009.
@@ -279,6 +291,7 @@ WonderSwan emulation is discussed [here](https://psp-archive.github.io/emulators
 - [Cygne](https://archive.org/details/cygne-000.7z) by REi. Last updated in 2005.
 - 👉 **[OswanPSP](https://archive.org/details/oswan-psp-020.7z)** by bird_may_nike. Interface only in Japanese. Last updated in 2008.
 - [eSwan](https://archive.org/details/eSwan009.7z) by e (T. Kawamorita). Last updated in 2005.
+- [Mednafen PSP](https://archive.org/details/mednafenPSP) by Robert Szkutak. Last updated in 2011.
 - [oSwan v0.7](https://archive.org/details/oswan001.7z) by REi. Last updated in 2005.
 - [pSwan](https://archive.org/details/pSwan_v007.7z) by kmg. Last updated in 2005.
 - [e[mulator]](https://archive.org/details/emulator_082f.7z) by e (T. Kawamorita). Last updated in 2006.
@@ -372,9 +385,10 @@ PC-98 emulation is discussed [here](https://psp-archive.github.io/emulators/PC98
 
 ### Misc home computers
 
+- [Mednafen PSP](https://archive.org/details/mednafenPSP) by Robert Szkutak. PC-FX core (untested yet). Last updated in 2011.
 - [Pyldin 601](https://archive.org/details/pyldin601-psp-3.2rev93) by Sasha Chukov, Yura Kuznetsov. Last updated in 2007.
-- [PSPBEEB](https://archive.org/details/pspbeeb.7z) by ZX-81. BBC Micro Emulator Last updated in 2007.
-- [PSPDragon](https://archive.org/details/pspdragon.7z) by ZX-81. Dragon / Tandy Coco Emulator. Last updated in 2008.
+- [PSPBEEB](https://archive.org/details/pspbeeb.7z) by ZX-81. BBC Micro emulator. Last updated in 2007.
+- [PSPDragon](https://archive.org/details/pspdragon.7z) by ZX-81. Dragon / Tandy Coco emulator. Last updated in 2008.
 - [PSPSIM](https://archive.org/details/pspsim-v1.2.1-fw3x.7z) by ZX-81. SamCoupé emulator. Last updated in 2008.
 - [PSPTI99](https://archive.org/details/pspti99-v1.0.3-fw3x.7z) by ZX-81. TI-99/4 emulator. Last updated in 2008.
 - [PX68K](https://archive.org/details/px-68-k-for-psp-ver-0.10.7z) by hissorii. SHARP X68000 emulator. Last updated in 2014. X68000 emulation is discussed [here](https://psp-archive.github.io/emulators/X68000.html).
