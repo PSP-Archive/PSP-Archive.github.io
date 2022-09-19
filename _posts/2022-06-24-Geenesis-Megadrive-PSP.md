@@ -33,7 +33,7 @@ This build manages to run at around 40 FPS with vsync and zero frame skip. Overa
 
 ### DGEN RX by Nekomune
 
-[DGEN RX](https://archive.org/details/dgen-170-rx.-7z) is the work of another Japanese coder, Nekomune. Going by the readme, this update simply adds support for later PSP models and signs the EBOOT, so that it can work even without a custom firmware.
+[DGEN RX](https://archive.org/details/dgen-170-rx.-7z) is the work of another Japanese coder, [Nekomune](http://nekoyama2gillien.blog36.fc2.com/blog-entry-667.html?sp). Going by the readme, this update simply adds support for later PSP models and signs the EBOOT, so that it can work even without a custom firmware.
 
 Puzzingly, I couldn't get this one to work on my PSP either. This is especially confusing because the build is really recent by PSP standards, dating back to 2012. The signing process was known to create incompatibilities with pre-existing code, so perhaps that plays a role.
 

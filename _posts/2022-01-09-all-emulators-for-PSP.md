@@ -13,7 +13,8 @@ Alternative resources:
 
 - [EmuGen Wiki entry](https://emulation.gametechwiki.com/index.php/Emulators_on_PSP) about PSP,
 - Framerater's [guide to PSP emulation](https://www.youtube.com/watch?v=n5zd_IArNzk),
-- [GBATemp](https://wiki.gbatemp.net/wiki/Emulation_on_PSP)'s wiki on PSP emulation.
+- [GBATemp](https://wiki.gbatemp.net/wiki/Emulation_on_PSP)'s wiki on PSP emulation,
+- [ElOtroLado](https://www.elotrolado.net/wiki/Emuladores_para_PSP) (in Spanish).
 
 For each system, I highlighted my preferred build (in case there is one).
 
@@ -150,6 +151,8 @@ GBA emulation is discussed [here](https://psp-archive.github.io/emulators/GBA-em
 - [e[mulator]](https://archive.org/details/emulator_082f.7z) by e (T. Kawamorita). Last updated in 2006.
 
 ### Genesis / MegaDrive
+
+MegaDrive emulation is discussed [here](https://psp-archive.github.io/emulators/Geenesis-Megadrive-PSP.html).
 
 - [DGEN](https://archive.org/details/dgen-170-lite.-7z) by Syn-k. Last updated in 2006.
 - [DGEN Lite](https://archive.org/details/dgen-170-lite) by Takka. Last updated in 2007.
