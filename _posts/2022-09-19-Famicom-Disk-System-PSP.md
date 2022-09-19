@@ -31,7 +31,9 @@ There is a number of games (especially English-patched or ROM hacks) that simply
 
 In those cases, do *not* contact the dev, as by now it has probably been at least a decade since they've last seen a PSP. 
 
-Instead, it can be a good idea to resort to the PSP version of RetroArch (yes, it has its uses).
+### FDS support in RetroArch PSP
+
+Instead, it can be a good idea to resort to the PSP version of [RetroArch](https://www.retroarch.com/) (yes, it has its uses).
 
 Just make sure to have `DISKSYS.ROM` in the `ms0:\PSP\RETROARCH\SYSTEM` folder before trying to launch anything.
 
