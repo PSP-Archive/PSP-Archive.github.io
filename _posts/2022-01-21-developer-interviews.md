@@ -13,6 +13,7 @@ I always enjoyed reading them, but I never bothered to collect them all in one p
 
 ### List
 
+- [Yoshihiro](https://web.archive.org/web/20060215134002/http://www.metagames-fr.com/Article257_Interview-de-Yoshihiro.php) (2005, in French)
 - [ZX-81](https://web.archive.org/web/20070811105553/http://interviews.dcemu.co.uk/) (2006)
 - [ZX-81](https://forums.exophase.com/threads/zx-81-interviewed.2946/) (2007)
 - [ZX-81](https://web.archive.org/web/20090707161002/http://bazziebizzle.com/site/Interviews-Ludovic_Jacomme.html) (2009)
