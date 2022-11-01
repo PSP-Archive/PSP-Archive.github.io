@@ -11,7 +11,7 @@ If you develop a game for a university assignment, does it still count as a home
 
 The dilemma first struck me when I came across [Marco World](https://archive.org/details/themarcoworld-1.1.3.7z). It looks like a Lua-coded fan game like hundred others, so I uploaded it without thinking much of it. But when I returned to its page, it had gathered two favourites out of just 35 views - a pretty solid result for the Homebrew Library. 
 
-As it turns out, this was no ordinary homebrew. It was made by [a student team](https://code.google.com/archive/p/themarcoworld/downloads) from the Université de Lille as part of their coursework. A bit of googling revealed that this was no uncommon occurrence. In the early 2010s, the PSP was briefly popular as a teaching device for game-programming courses - at least in the United Kingdom. 
+As it turns out, this was no ordinary homebrew. It was made by [a student team](https://code.google.com/archive/p/themarcoworld/downloads) from the Université de Lille as part of their coursework. A bit of googling revealed that this was no uncommon occurrence. In the early 2010s, the PSP was briefly popular as a teaching device for game-programming courses - mostly in the United Kingdom. 
 
 The impetus behind it all seems to have been [a deal](https://www.bit-tech.net/news/gaming/sony_gives_universities_psp_sdk/1/) between Sony and a group of selected universities. The universities received official SDKs on the cheap, and Sony received a pool of fresh graduates already familiar with their hardware. 
 
@@ -73,3 +73,15 @@ Another [unnamed work](https://neugodnikov.com/works/cross-platform-psp-and-wind
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/KonradJablonski.webp)
 
 [Space Survivor PSP](http://www.konradjablonski.co.uk/space-survivor-psp/), another game for which we have nothing but a video.
+
+### Equipe 11 (Universidad Centroamericana José Simeón Cañas)
+
+Four students of this university developed a homebrew app known as [pspTunes](https://archive.org/details/psptunes.-7z), and a companion PC app coded in Java. 
+
+### Katharina Maria Kaczmarczyk (Universitat Politècnica de València)
+
+Kaczmarczyk created the [Tobis Dictionary](https://archive.org/details/pspdictionary-psp) app for PSP. The project papers are still available [here](https://m.riunet.upv.es/handle/10251/11953) as of this writing.
+
+### Michael Andrianarimanga (Université Paris-Est)
+
+While this is not a homebrew, Andrianarimanga wrote up a [guide to PSP homebrew development](http://igm.univ-mlv.fr/~dr/XPOSE2009/Developper_un_homebrew_sur_PSP/index.html) (in French, obviously).

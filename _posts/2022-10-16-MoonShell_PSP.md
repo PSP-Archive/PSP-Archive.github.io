@@ -7,9 +7,7 @@ tags: [PSP,homebrew]
 image: /assets/img/random/MoonShell_PSP.webp
 ---
 
-## Shell?
-
-The 'shells' here have nothing to do with sea shores, oil companies or tax dodging. Shells are apps for PSP that seek to replace the XrossMediaBar - the GUI that is at the heart of the system. These applications generally try to mimic a well known interface, and may try to market themselves as OS - operating systems. 
+The 'shells' mentioned here have nothing to do with sea shores, oil companies or tax dodging. Shells are apps for PSP that seek to replace the XrossMediaBar - the GUI that is at the heart of the system. These applications generally try to mimic a well known interface, and may try to market themselves as OS - operating systems. 
 
 This is nonsense obviously, it takes more than a pretty UI to run Windows executables on a PSP. But some shells really do something beyond taking up Memory Stick space. They add features that are missing from the XMB, or hide others that are not perceived as useful.
 
@@ -17,9 +15,7 @@ Creating a mock Windows desktop on a PSP screen doesn't work too well for one se
 
 ## MoonShell best shell
 
-[MoonShell](https://archive.org/details/msforpsp.-7z) does better than that. The shell is the work of a Japanese developer who goes by the name of [Moonlight](https://web.archive.org/web/20120406065129/http://mdxonline.dyndns.org:80/20111222_MoonShellForPSP_Ver100_InstallManual).
-
-Notionally a port of MoonShell for the Nintendo DS, this release looks quite different from its dual-scren counterpart. Every asset has been reworked to take advantage of the higher specs of the PSP display.
+[MoonShell](https://archive.org/details/msforpsp.-7z) does better than that. The shell is the work of a Japanese developer who goes by the name of [Moonlight](https://web.archive.org/web/20120406065129/http://mdxonline.dyndns.org:80/20111222_MoonShellForPSP_Ver100_InstallManual). Notionally a port of MoonShell for the Nintendo DS, this release looks quite different from its dual-scren counterpart. Every asset has been reworked to take advantage of the higher specs of the PSP display. 
 
 The UI is clearly meant for a portable console, not a computer. Though it does have some inbuilt applications to expand its capabilities.
 

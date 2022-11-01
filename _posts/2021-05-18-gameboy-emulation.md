@@ -15,7 +15,7 @@ Let's see, then, how the GameBoy emulators on PSP perform with Shantae.
 
 ### GeMP (Homer's RIN)
 
-[GeMP](https://archive.org/details/ge-mp.-7z) is a fork of Mirakichi's RIN emulator, created by a guy calling himself Homer. Our Homer loves anime girl butts like the other Homer loves donuts, so if that offends you, I'd suggest moving on to the next emulator.
+[GeMP](https://archive.org/details/ge-mp.-7z) is a fork of Mirakichi's RIN emulator, created by a guy calling himself [Homer](https://web.archive.org/web/20060311234821/http://www.xn--stjrna-dua.net:80/psp/rin/). Our Homer loves anime girl butts like the other Homer loves donuts, so if that offends you, I'd suggest moving on to the next emulator.
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/Shantae-GeMP.webp)
 

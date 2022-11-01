@@ -7,7 +7,7 @@ tags: [PSP,homebrew]
 image: /assets/img/random/httpwwwpsp-stylecokr.webp
 ---
 
-I'm making this list mostly because I lost track of the emulation options myself. Some emulators appear more than once if they support more than one system. RetroArch cores are excluded as they have [their own article](https://psp-archive.github.io/emulators/retroarch-197.html).
+I'm making this list mostly because I lost track of the emulation options myself. Some emulators appear more than once if they support more than one system. RetroArch cores are excluded as they have [their own article](https://psp-archive.github.io/emulators/retroarch-197.html), though they are still listed if they are the only way to emulate a given system.
 
 Alternative resources:
 
@@ -135,6 +135,10 @@ GBA emulation is discussed [here](https://psp-archive.github.io/emulators/GBA-em
 
 ## Sega
 
+### SG-1000
+
+- [SMS Plus PSP](https://archive.org/details/smsplus-1.3.1-1.0.7z) by Akop Karapetyan. Last updated in 2010.
+
 ### Sega Master System
 
 - [EmuSMS](https://archive.org/details/emusms10.7z) by Consolius. Last updated in 2006.
@@ -205,8 +209,11 @@ Game Gear emulation is discussed [here](https://psp-archive.github.io/emulators/
 - [CaSTaway/PSP](https://archive.org/details/castaway-psp-006.7z) by Jeff Mitchell. Atari ST emulator. Last updated in 2007.
 - [Jum52](https://archive.org/details/jum52_11_PSP.7z) by James Higgs. Atari 5200 emulator. Last updated in 2010.
 - [PJag](https://archive.org/details/atari-jaguar-emulator.-7z) by Plynx. Atari Jaguar emulator. Last updated in 2006.
-- [PSP2600](https://archive.org/details/psp2600.7z) by ZX-81. Atari 2600 emulator. Last updated in 2009.
 - [PSPAtari](https://archive.org/details/pspatari.7z) by ZX-81. Atari 800/130/5200 emulator. Last updated in 2008.
+
+### Atari 2600
+
+- [PSP2600](https://archive.org/details/psp2600.7z) by ZX-81. Atari 2600 emulator. Last updated in 2009.
 - [Stella](https://archive.org/details/stella_bin_20060106) by David Voswinkel (optixx). Atari 2600 emulator. Last updated in 2006.
 - [Stella PSP](https://archive.org/details/stella-pspv-0.2.7z) by Alysa Habraken (Aenea). Atari 2600 VCS emulator. Last updated in 2005.
 
@@ -230,6 +237,7 @@ Lynx emulation is discussed [here](https://psp-archive.github.io/emulators/Atari
 ## Misc. consoles and other devices
 
 - [EmuODD](https://archive.org/details/pspemuodd-10.7z) by Consolius. Magnavox Odyssey 2 emulator. Last updated in 2006.
+- FreeChaF. Fairchild ChannelF emulator. RetroArch core only.
 - [InfoPyuta](https://archive.org/details/infopyuta-2xxv-002j.-7z). Pyūta/Tomy Tutor emulator. Last updated in 2005.
 - [PSPInt](https://archive.org/details/pspint.7z) by ZX-81. Intellivision Emulator. Last updated in 2007.
 - [Smarcyclem](https://archive.org/details/smarcyclem.-7z) by crait. Emulator for the Smart Cycle Physical Learning Arcade System. Last updated in 2008.
@@ -388,6 +396,7 @@ PC-98 emulation is discussed [here](https://psp-archive.github.io/emulators/PC98
 
 ### Misc home computers
 
+- BK. Elektronika BK-0010 emulator. RetroArch core only.
 - [Mednafen PSP](https://archive.org/details/mednafenPSP) by Robert Szkutak. PC-FX core (untested yet). Last updated in 2011.
 - [Pyldin 601](https://archive.org/details/pyldin601-psp-3.2rev93) by Sasha Chukov, Yura Kuznetsov. Last updated in 2007.
 - [PSPBEEB](https://archive.org/details/pspbeeb.7z) by ZX-81. BBC Micro emulator. Last updated in 2007.
@@ -395,6 +404,7 @@ PC-98 emulation is discussed [here](https://psp-archive.github.io/emulators/PC98
 - [PSPSIM](https://archive.org/details/pspsim-v1.2.1-fw3x.7z) by ZX-81. SamCoupé emulator. Last updated in 2008.
 - [PSPTI99](https://archive.org/details/pspti99-v1.0.3-fw3x.7z) by ZX-81. TI-99/4 emulator. Last updated in 2008.
 - [PX68K](https://archive.org/details/px-68-k-for-psp-ver-0.10.7z) by hissorii. SHARP X68000 emulator. Last updated in 2014. X68000 emulation is discussed [here](https://psp-archive.github.io/emulators/X68000.html).
+- X Millennium. Sharp X1 emulator. RetroArch core only.
 
 ## Arcade
 

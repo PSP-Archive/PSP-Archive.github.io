@@ -29,17 +29,13 @@ There are only two scaling options to choose from - original resolution, and str
 
 ### CPCPSP 
 
-[CPCPSP](https://archive.org/details/cpcpsp-v-01.7z) is the only PSP work of coder Nige. This was the first CPC emulator for PSP, having been released on time for Christmas 2005.
-
-That was also when it was last updated - and it shows. 
+[CPCPSP](https://archive.org/details/cpcpsp-v-01.7z) is the only PSP work of coder Nige. This was the first CPC emulator for PSP, having been released on time for Christmas 2005. That was also when it was last updated - and it shows. 
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/cpcpsp.webp)
 
 There's no GUI to load games from. Instead, we have to create snapshot files from the PC version of the emulator, and supply them to CPCPSP.
 
-According to the author himself, the emulation won't reach full speed even with the PSP clocked at 300 MHz.
-
-In short, I see no reason to bother with this one, now that better options are available.
+According to the author himself, the emulation won't reach full speed even with the PSP clocked at 300 MHz. In short, I see no reason to bother with this one, now that better options are available.
 
 ### PSPCAP32
 
@@ -49,9 +45,7 @@ Ludovic Jacomme's port of Caprice is known as [PSPCAP32](https://archive.org/det
 
 Just like Karapetyan's port, this is also a cookie-cutter creation, reusing the same UI featured in all of Jacomme's PSP works. But it works here, so no complaints about that. 
 
-PSPCAP32 addresses most of the concerns I had with Caprice32. 
-
-We have a good number of scaling options to choose from - fit height, fit width, x1.5 and so on. The virtual keyboard is also less of a pain to use.
+PSPCAP32 addresses most of the concerns I had with Caprice32. We have a good number of scaling options to choose from - fit height, fit width, x1.5 and so on. The virtual keyboard is also less of a pain to use.
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/pspcap_ikar.webp)
 
@@ -61,9 +55,7 @@ The games I tested run at full speed already at 222 MHz.
 
 CrocoDS is a core available on the PSP version of RetroArch. 
 
-This emulator is supposed to have an on-screen keyboard, but I couldn't get it to work.
-
-Pressing Select shows a menu, but none of the buttons I pressed seemed to do anything here.
+This emulator is supposed to have an on-screen keyboard, but I couldn't get it to work. Pressing Select shows a menu, but none of the buttons I pressed seemed to do anything here.
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/crocods_menu.webp)
 

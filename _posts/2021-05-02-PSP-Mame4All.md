@@ -29,6 +29,8 @@ PSP Mame4All is not always the best choice to emulate arcade titles on the PSP. 
 
 - The various **Final Burn Alpha** builds also offer a better experience than Mame4All. The list of games supported by FBA4PSP is [available here](https://github.com/PSP-Archive/FBA4PSPmod/blob/master/docs/gamelists/full-gamelist.md).
 
+- the [PSPMAME](https://archive.org/details/psp-homebrew-library?query=PSPMAME) ports are based on a later version of MAME (0.97) and thus notionally support more games, but generally run *worse* than PSP Mame4All.
+
 As a rule of thumb, Mame4All is the advisable option mostly for early arcade games created by western manufacturers. Games like Tapper.
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/mame4all_tapper.webp)

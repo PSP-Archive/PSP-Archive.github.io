@@ -49,7 +49,7 @@ The original Dungeons game later gave rise to Dungeons: Assault Run, last update
 
 Over the years, some of the mods were lost to history:
 
-- [Dark Dungeons](http://forums.qj.net/psp-homebrew-hacks-discussion/81980-new-dark-dungeons-v1-6-based-dungeons-v6.html) by Be3f
+- [Dark Dungeons](http://forums.qj.net/psp-homebrew-hacks-discussion/81980-new-dark-dungeons-v1-6-based-dungeons-v6.html) by Be3f (Update: found and [archived here](https://archive.org/details/dark-dungeons_202210))
 - [Halo Dungeons Vs](https://www.dcemu.co.uk/vbulletin/threads/44871-Halo-Dungeons-Vs-2) by VettaCossX
 - [The Deadly Castle](http://forums.qj.net/psp-development-forum/136241-psp-dungeons-assault-run-3d-editor-18.html#post2103523) by BTR711
 - [Virtual Range Missions](http://forums.qj.net/psp-development-forum/136241-psp-dungeons-assault-run-3d-editor-18.html#post2103523) by BTR711
